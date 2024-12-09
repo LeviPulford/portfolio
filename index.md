@@ -6,9 +6,7 @@
 
 <br><br>
 
-# Portfolio
-
-Below are examples of my work with brief descriptions. Click on the titles to view the full sample.
+Below are examples and brief descriptions of my work. Click on the titles to view the full sample.
 
 ---
 
