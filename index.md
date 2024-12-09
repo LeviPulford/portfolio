@@ -4,6 +4,7 @@
     <a href="contact.html">Contact</a>
 </div>
 
+<br><br>
 
 # Portfolio
 
