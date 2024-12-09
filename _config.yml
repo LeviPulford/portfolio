@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+nav:
+  - title: Home
+    url: /
+  - title: About Me
+    url: /about.html
