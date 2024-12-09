@@ -1,4 +1,4 @@
 ---
-title: Levi Pulford
+title: Levi-Pulford
 ---
 [About Me](about.md)
