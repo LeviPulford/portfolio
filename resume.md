@@ -11,19 +11,15 @@ Below is an overview of my education, experience, and skills.
 ## Education
 **Certificate in Professional Technical Writing** — *University of Washington*  
 Graduation: *April 2025*
-
 Relevant coursework: Foundations of Technical Communication
 
 **M.F.A. in Creative Writing** — *University of Massachusetts Amherst*  
-
 Relevant coursework: Composition Theory, Research Methods, Literacy Studies
 
 **M.A. in English Literature** — *University of Montevallo*  
-
 Relevant coursework: Style and Editing, Studies in Critical Theory
 
 **B.A. in English** — *University of Montevallo*  
-
 Relevant coursework: Mass Media Writing, Professional and Technical Writing, Philosophy of Language
 
 ---
@@ -52,18 +48,12 @@ software engineers on the frontlines of generative AI.
 - JSON
 - R
 
-### Version Control and Collaboration
-- GitHub
-
-### Content Management
-- WordPress
-- Obsidian
-
-### Data Analysis and Visualization
-- Google Colab
-- Jupyter Notebooks
-
-### Document Creation and Editing
+### Content Creation and Management
 - Microsoft Word
 - Google Docs
 - Adobe InDesign
+- GitHub
+- WordPress
+- Obsidian
+- Google Colab
+- Jupyter Notebooks
