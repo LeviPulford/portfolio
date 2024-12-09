@@ -19,7 +19,7 @@ Relevant coursework: Composition Theory, Research Methods, Literacy Studies
 **M.A. in English Literature** — *University of Montevallo*  
 Relevant coursework: Style and Editing, Studies in Critical Theory
 
-**B.A. in English** — *University of Montevallo*  
+**B.A. in English, Minor in Philosophy** — *University of Montevallo*  
 Relevant coursework: Mass Media Writing, Professional and Technical Writing, Philosophy of Language
 
 ---
