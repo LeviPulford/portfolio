@@ -10,7 +10,7 @@ Below is an overview of my education, experience, and skills.
 
 ## Education
 **Certificate in Professional Technical Writing** — *University of Washington*  
-Graduation: *April 2025* <br>
+Graduation: April 2025 <br>
 Relevant coursework: Foundations of Technical Communication
 
 **M.F.A. in Creative Writing** — *University of Massachusetts Amherst*  
@@ -27,14 +27,14 @@ Relevant coursework: Mass Media Writing, Professional and Technical Writing, Phi
 ## Relevant Experience
 
 **Generative AI Associate at Innodata** <br>
-*Remote* — *June 2024-Present*
+*Remote* — *June 2024-Present* <br>
 - Training next-generation large language models by creating, annotating, and refining data sets.
 - Collaborating with a global and cross-functional team consisting of data scientists, researchers, and
 software engineers on the frontlines of generative AI.
 - Achieving target KPIs within specified data production windows given in a dynamic environment.
 
 **Lecturer at University of Massachusetts Amherst** <br>
-*Amherst, MA* — *September 2023-May 2024*
+*Amherst, MA* — *September 2023-May 2024* <br>
 - Taught Social Issues in Computing, a writing course for juniors and seniors in the Manning College of Information & Computer Sciences.
 - Developed teaching materials on data storytelling using R and ethics in artificial intelligence.
 
