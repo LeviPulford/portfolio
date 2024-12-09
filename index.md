@@ -3,6 +3,8 @@
     <a href="resume.html">Resume</a>
     <a href="contact.html">Contact</a>
 </div>
+
+
 # Portfolio
 
 Below are examples of my work with brief descriptions. Click on the titles to view the full sample.
