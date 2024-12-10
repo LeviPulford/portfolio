@@ -42,6 +42,11 @@
     align-items: center;
     gap: 15px; /* Add spacing between links */
     font-size: 14px;
+} 
+                /* Active link styles */
+.nav-links a.active {
+    font-weight: bold;
+    color: #0056B3;
 }
     </style>
 </head>
@@ -54,19 +59,12 @@
             <div class="intro">
                 <i>Technical Communicator | AI and Data</i>
             </div>
-            <div class="nav-links">
-                <a href="https://levipulford.github.io/portfolio/">Portfolio</a>
-                <a href="https://levipulford.github.io/portfolio/about.html">About</a>
-                <a href="https://levipulford.github.io/portfolio/resume.html">Resume</a>
-                <a href="https://levipulford.github.io/portfolio/contact.html">Contact</a>
-            </div>
-            <style>    
-                /* Active link styles */
-.nav-links a.active {
-    font-weight: bold;
-    color: #0056B3;
-}
-            </style>
+        <div class="nav-links">
+    <a href="{{ "/" | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Portfolio</a>
+    <a href="{{ "/about.html" | relative_url }}" class="{% if page.url == '/about.html' %}active{% endif %}">About</a>
+    <a href="{{ "/resume.html" | relative_url }}" class="{% if page.url == '/resume.html' %}active{% endif %}">Resume</a>
+    <a href="{{ "/contact.html" | relative_url }}" class="{% if page.url == '/contact.html' %}active{% endif %}">Contact</a>
+</div>
         </header>
         <section>
             {{ content }}
