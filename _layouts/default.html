@@ -11,6 +11,51 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+
+ <style>
+        /* Center Name and Navigation Links */
+        .header-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh; /* Takes up full vertical space */
+            text-align: center;
+            border-right: 1px solid #ccc; /* Divider line */
+            padding-right: 20px;
+        }
+
+        .header-container h1 {
+            margin-bottom: 10px;
+        }
+
+        .nav-links {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            font-size: 18px;
+        }
+
+        .nav-links a {
+            text-decoration: none;
+            color: #007BFF;
+        }
+
+        .nav-links a:hover {
+            color: #FF5733;
+        }
+
+        .nav-links a.active {
+            font-weight: bold;
+            color: #FF5733;
+        }
+
+        /* Page Content */
+        .content-container {
+            margin-left: 300px; /* Adjust to match the width of the header */
+            padding: 20px;
+        }
+    </style>
 </head>
 <body>
     <div class="wrapper">
