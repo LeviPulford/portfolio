@@ -2,3 +2,15 @@
 ---
 
 @import "{{ site.theme }}";
+a {
+    color: #007BFF; /* Default link color */
+}
+
+a:hover {
+    color: #0056b3; /* Hover link color */
+}
+
+a.active {
+    font-weight: bold;
+    color: #FF5733; /* Active link color */
+}
