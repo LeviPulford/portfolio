@@ -1,47 +1,63 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+<head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
-  </head>
-  <body>
+    <style>
+        /* Sticky Navigation Bar */
+        nav {
+            position: sticky;
+            top: 0;
+            background-color: #fff;
+            z-index: 1000;
+            padding: 10px 0;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            font-size: 18px;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #333;
+        }
+
+        nav a:hover {
+            color: #007BFF;
+        }
+
+        nav a.active {
+            font-weight: bold;
+            color: #007BFF;
+        }
+    </style>
+</head>
+<body>
     <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-
-        {% if site.github.is_project_page %}
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-        {% endif %}
-
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-        </ul>
-        {% endif %}
-      </header>
-      <section>
-
-      {{ content }}
-
-      </section>
-      <footer>
-      </footer>
+        <header>
+            <!-- Sticky Navigation Bar -->
+            <nav>
+                <a href="/about.html" class="{% if page.url == '/about.html' %}active{% endif %}">About Me</a>
+                <a href="/resume.html" class="{% if page.url == '/resume.html' %}active{% endif %}">Resume</a>
+                <a href="/contact.html" class="{% if page.url == '/contact.html' %}active{% endif %}">Contact</a>
+            </nav>
+        </header>
+        <section>
+            {{ content }}
+        </section>
+        <footer>
+            <!-- Optional footer content can go here -->
+        </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-  </body>
+</body>
 </html>
