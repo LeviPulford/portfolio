@@ -12,7 +12,7 @@
     <![endif]-->
     {% include head-custom.html %}
     <style>
-        /* Centering header content vertically */
+        /* Centering header content vertically and raising slightly */
         .header-container {
             display: flex;
             flex-direction: column;
@@ -20,6 +20,7 @@
             justify-content: center; /* Vertically center */
             height: 100vh; /* Full viewport height */
             text-align: center;
+            transform: translateY(-10%); /* Raise content slightly */
         }
 
         .header-container h1 {
