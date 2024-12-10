@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
+sass:
+  style: compressed
 title: Levi Pulford
 description: Portfolio
 nav:
