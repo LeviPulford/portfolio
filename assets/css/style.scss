@@ -12,19 +12,6 @@ a:hover {
     color: #0056B3; /* Hover color */
 }
 
-/* Navigation bar styling */
-nav {
-    background-color: #f8f9fa;
-    border-bottom: 1px solid #e9ecef;
-    padding: 10px 0;
-}
-
-nav a {
-    text-decoration: none;
-    color: #007BFF;
-}
-
-nav a.active {
-    font-weight: bold;
-    color: #FF5733;
+a.active {
+    color: #0056B3; /* Active color */
 }
