@@ -1,8 +1,4 @@
 theme: jekyll-theme-minimal
-plugins:
-  - jekyll-remote-theme
-include:
-  - assets/css/custom.css
 title: Levi Pulford
 description: Portfolio
 nav:
