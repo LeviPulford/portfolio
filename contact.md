@@ -8,5 +8,5 @@ Thank you for visiting my portfolio! If you’d like to get in touch, I’d be h
 
 You can email me at [levipulford@gmail.com](mailto:levipulford@gmail.com).
 
-If you'd like, you can also connect with me on [LinkedIn](https://www.linkedin.com/in/levipulford/).
+You can also connect with me on [LinkedIn](https://www.linkedin.com/in/levipulford/).
 
