@@ -1,3 +1,7 @@
+---
+---
+
+@import "{{ site.theme }}";
 a {
     color: #007BFF; /* Default link color */
 }
