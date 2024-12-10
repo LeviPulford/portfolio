@@ -11,68 +11,23 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
-    <style>
-        /* Style for centering the header content */
-        .header-container {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            height: 100vh; /* Takes up full vertical space */
-            text-align: center;
-            padding-right: 20px; /* Space from the right edge */
-        }
-
-        .header-container h1 {
-            margin-bottom: 10px;
-        }
-
-        .nav-links {
-            display: flex;
-            flex-direction: column;
-            gap: 15px;
-            font-size: 18px;
-        }
-
-        .nav-links a {
-            text-decoration: none;
-            color: #007BFF;
-        }
-
-        .nav-links a:hover {
-            color: #FF5733;
-        }
-
-        .nav-links a.active {
-            font-weight: bold;
-            color: #FF5733;
-        }
-
-        /* Content container with left border */
-        .content-container {
-            border-left: 1px solid #ccc; /* Thin divider line */
-            padding-left: 20px; /* Space from the left edge of the content */
-            margin-left: 300px; /* Offset for header width */
-            padding: 20px;
-        }
-    </style>
 </head>
 <body>
     <div class="wrapper" style="display: flex;">
         <!-- Left Header Section -->
         <div class="header-container">
             <h1>
-                <a href="https://levipulford.github.io/portfolio/" style="text-decoration: none; color: inherit;">Levi Pulford</a>
+                <a href="https://levipulford.github.io/portfolio/" class="site-title">Levi Pulford</a>
             </h1>
             <div class="nav-links">
                 <a href="https://levipulford.github.io/portfolio/" 
-                   class="{% if page.url == '/' %}active{% endif %}">Portfolio</a>
+                   class="nav-link {% if page.url == '/' %}active{% endif %}">Portfolio</a>
                 <a href="https://levipulford.github.io/portfolio/about.html" 
-                   class="{% if page.url == '/about.html' %}active{% endif %}">About</a>
+                   class="nav-link {% if page.url == '/about.html' %}active{% endif %}">About</a>
                 <a href="https://levipulford.github.io/portfolio/resume.html" 
-                   class="{% if page.url == '/resume.html' %}active{% endif %}">Resume</a>
+                   class="nav-link {% if page.url == '/resume.html' %}active{% endif %}">Resume</a>
                 <a href="https://levipulford.github.io/portfolio/contact.html" 
-                   class="{% if page.url == '/contact.html' %}active{% endif %}">Contact</a>
+                   class="nav-link {% if page.url == '/contact.html' %}active{% endif %}">Contact</a>
             </div>
         </div>
 
