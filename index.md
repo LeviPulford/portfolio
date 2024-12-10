@@ -1,11 +1,3 @@
-<div style="display: flex; justify-content: center; gap: 30px; font-size: 18px;">
-    <a href="about.html">About Me</a>
-    <a href="resume.html">Resume</a>
-    <a href="contact.html">Contact</a>
-</div>
-
-<br><br>
-
 Below are examples and brief descriptions of my work. Click on the titles to view the full sample.
 
 ---
