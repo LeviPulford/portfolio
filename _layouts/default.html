@@ -12,10 +12,24 @@
     <![endif]-->
     {% include head-custom.html %}
     <style>
+        /* Centering header content vertically */
+        .header-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center; /* Horizontally center */
+            justify-content: center; /* Vertically center */
+            height: 100vh; /* Full viewport height */
+            text-align: center;
+        }
+
+        .header-container h1 {
+            margin-bottom: 20px; /* Add space between name and navigation links */
+        }
+
         .nav-links {
             display: flex;
             flex-direction: column; /* Stack links vertically */
-            align-items: center; /* Center links horizontally */
+            align-items: center;
             gap: 15px; /* Add spacing between links */
             font-size: 18px;
         }
@@ -32,8 +46,8 @@
 </head>
 <body>
     <div class="wrapper">
-        <header style="text-align: center; margin-bottom: 20px;">
-            <h1 style="margin-bottom: 10px;">
+        <header class="header-container">
+            <h1>
                 <a href="https://levipulford.github.io/portfolio/" style="text-decoration: none; color: inherit;">Levi Pulford</a>
             </h1>
             <div class="nav-links">
