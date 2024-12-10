@@ -20,8 +20,7 @@
             justify-content: center;
             height: 100vh; /* Takes up full vertical space */
             text-align: center;
-            border-right: 1px solid #ccc; /* Divider line */
-            padding-right: 20px;
+            padding-right: 20px; /* Space from the right edge */
         }
 
         .header-container h1 {
@@ -49,9 +48,11 @@
             color: #FF5733;
         }
 
-        /* Content container adjustment */
+        /* Content container with left border */
         .content-container {
-            margin-left: 300px; /* Adjust this to match header width */
+            border-left: 1px solid #ccc; /* Thin divider line */
+            padding-left: 20px; /* Space from the left edge of the content */
+            margin-left: 300px; /* Offset for header width */
             padding: 20px;
         }
     </style>
