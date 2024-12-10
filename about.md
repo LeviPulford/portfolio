@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-# About Me
+# About
 
 I am a data-driven technical communicator who views writing as a technology and technology as applied philosophy. As technologies become more general-purpose, users will need more generalizable sets of skills and knowledge to apply them. To work with and learn about general-purpose technologies like AI means to work with and learn about writing, which in turn involves asking deep, critical questions about our world.
 
