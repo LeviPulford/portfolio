@@ -5,7 +5,7 @@ title: About Me
 
 # About Me
 
-I am a data-driven technical communicator who views writing as a technology and technology as applied philosophy. As technologies become more general-purpose, users will need more generalizable sets of skills and knowledge to apply them. To teach with and learn about AI means to teach and learn about writing, which in turn involves asking deep, critical questions about our world.
+I am a data-driven technical communicator who views writing as a technology and technology as applied philosophy. As technologies become more general-purpose, users will need more generalizable sets of skills and knowledge to apply them. To work with and learn about general-purpose technologies like AI means to work with and learn about writing, which in turn involves asking deep, critical questions about our world.
 
 I am proficient in tools like Markdown, HTML/CSS, JSON, and R. I also have experience developing educational materials and job aids tailored for computer science majors, data annotators, and AI developers.
 
