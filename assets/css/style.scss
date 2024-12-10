@@ -2,15 +2,29 @@
 ---
 
 @import "{{ site.theme }}";
+
+/* Custom link colors */
 a {
     color: #007BFF; /* Default link color */
 }
 
 a:hover {
-    color: #0056b3; /* Hover link color */
+    color: #FF5733; /* Hover color */
 }
 
-a.active {
+/* Navigation bar styling */
+nav {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e9ecef;
+    padding: 10px 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: #007BFF;
+}
+
+nav a.active {
     font-weight: bold;
-    color: #FF5733; /* Active link color */
+    color: #FF5733;
 }
