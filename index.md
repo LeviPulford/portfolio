@@ -32,7 +32,8 @@ Below are examples and brief descriptions of my work. Click on the titles to vie
 
 ---
 
-## Sample 3: <a href="https://www.sigcas.org/2023/11/15/computers-and-society-volume-52-number-2-november-2023-issue-now-available/" target="_blank" rel="noopener noreferrer">Op-Ed for *Computers and Society*</a>  ![Thumbnail for Sample 3](thumbnails/SIGCAS Screenshot.jpg) 
+## Sample 3: <a href="https://www.sigcas.org/2023/11/15/computers-and-society-volume-52-number-2-november-2023-issue-now-available/" target="_blank" rel="noopener noreferrer">Op-Ed for *Computers and Society*</a>  
+![Thumbnail for Sample 3](thumbnails/SIGCAS Screenshot.jpg) 
 
 **Role:** Lecturer  
 
