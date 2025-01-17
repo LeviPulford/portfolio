@@ -17,7 +17,8 @@ Below are examples and brief descriptions of my work. Click on the titles to vie
 
 ---
 
-## Sample 2: [Writing with AI Workshop](link-to-sample) ![Thumbnail for Sample 2](path-to-thumbnail-2.jpg)
+## Sample 2: <a href="https://www.liberal-arts.ai/2024-undergraduate-conference/" target="_blank" rel="noopener noreferrer">Writing with AI Workshop</a>  
+![Thumbnail for Sample 2](thumbnails/AILA Workshop.jpg)
 
 **Role:** Writing Center Associate  
 
