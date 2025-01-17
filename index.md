@@ -9,7 +9,7 @@ Below you will find samples of my work. Click on linked titles to view or downlo
 ---
 
 ## Player's Manual to Generative AI Standards
-![Thumbnail for Sample 1](thumbnails/Generative AI Player Manual.jpg)
+<img src="thumbnails/Generative AI Player Manual.jpg" alt="Thumbnail for Player's Manual to Generative AI Standards" width="200">
 Please contact me for access.
 
 **Role:** Author 
