@@ -4,7 +4,7 @@ title: "Portfolio"
 ---
 # Portfolio
 
-Below are examples and brief descriptions of my work. Click on the titles to view or download the full sample.
+Below you will find samples of my work. Click on the titles to view or download the full sample.
 
 ---
 
