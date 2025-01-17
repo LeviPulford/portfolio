@@ -8,6 +8,22 @@ Below you will find samples of my work. Click on the titles to view or download 
 
 ---
 
+## Player's Manual to Generative AI Standards
+![Thumbnail for Sample 1]()
+Please contact me for a copy.
+
+**Role:** Author 
+
+**Description:** I created a 29-page concept of operations, or ConOps, framed as a player's manual to aid emerging AI and data science professionals. It includes resources for navigating technical standards in generative AI and applies governance frameworks to widely taught concepts in computer science and machine learning, such as tokens and transformers. By framing the contents as a player's manual, this document leverages prior knowledge of games to facilitate knowledge transfer about AI. It also remains politically neutral, in that it does not call for or critique either regulatory or deregulatory approaches. Instead, it emphasizes the voluntary nature of standards. Additionally, this ConOps applies two forms of reasoning—reasoning with first principles and reasoning with analogy—to help those working in AI and data create ethical mental models of their work.
+
+**Tools:** Microsoft Word, Google Slides, Adobe InDesign
+
+**Highlights:**
+* Authored a detailed guide that synthesizes complex concepts into accessible and actionable content.
+* Developed visual aids and workflows to illustrate technical processes and enhance usability.
+* Addressed emerging industry needs by outlining best practices for ethical and practical AI development.
+
+---
 ## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/df5e4355b89330944d8b549d43eb6c7feeb902b6/PDF%20Downloads/AILA%20Workshop%20Slides.pdf" download>Workshop on Writing with AI</a>
 ![Thumbnail for Sample 2](thumbnails/AILA Workshop.jpg)
 Click [here](https://www.liberal-arts.ai/2024-undergraduate-conference/) for more information.
