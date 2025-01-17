@@ -62,7 +62,7 @@ Below are examples and brief descriptions of my work. Click on the titles to vie
 
 ---
 
-## Sample 5: [Paperbark Magazine Issue 03](link-to-sample) ![Thumbnail for Sample 5](thumbnails/Paperbark03cover.jpg) 
+## Sample 5: [Paperbark Magazine Issue 03](https://hdl.handle.net/20.500.14394/39427) ![Thumbnail for Sample 5](thumbnails/Paperbark03cover.jpg) 
 
 **Role:** Editorial Assistant and Social Media Lead  
 
