@@ -8,7 +8,7 @@ Below are examples and brief descriptions of my work. Click on the titles to vie
 
 ---
 
-## <a href="https://github.com/LeviPulford/portfolio/blob/df5e4355b89330944d8b549d43eb6c7feeb902b6/PDF%20Downloads/AILA%20Workshop%20Slides.pdf" download>Workshop on Writing with AI</a>  
+## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/df5e4355b89330944d8b549d43eb6c7feeb902b6/PDF%20Downloads/AILA%20Workshop%20Slides.pdf" download>Workshop on Writing with AI</a>
 ![Thumbnail for Sample 2](thumbnails/AILA Workshop.jpg)
 
 **Role:** Writing Center Associate  
