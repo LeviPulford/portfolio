@@ -17,7 +17,7 @@ Below are examples and brief descriptions of my work. Click on the titles to vie
 
 ---
 
-## Sample 2: <a href="https://www.liberal-arts.ai/2024-undergraduate-conference/" target="_blank" rel="noopener noreferrer">Writing with AI Workshop</a>  
+## Sample 2: <a href="https://www.liberal-arts.ai/2024-undergraduate-conference/" target="_blank" rel="noopener noreferrer">Workshop on Writing with AI</a>  
 ![Thumbnail for Sample 2](thumbnails/AILA Workshop.jpg)
 
 **Role:** Writing Center Associate  
@@ -49,7 +49,7 @@ Below are examples and brief descriptions of my work. Click on the titles to vie
 
 ---
 
-## Sample 4: <a href="https://www.umass.edu/writing-program/chatgpt" target="_blank" rel="noopener noreferrer">Teaching Writing in the Age of ChatGPT</a> 
+## Sample 4: <a href="https://www.umass.edu/writing-program/chatgpt" target="_blank" rel="noopener noreferrer">Toolkit for Teaching Writing in the Age of ChatGPT</a> 
 ![Thumbnail for Sample 4](thumbnails/Teaching Writing Screenshot.jpg)
 
 **Role:** Graduate Assistant Director for Teacher Training  
@@ -65,7 +65,7 @@ Below are examples and brief descriptions of my work. Click on the titles to vie
 
 ---
 
-## Sample 5: <a href="https://hdl.handle.net/20.500.14394/39427" target="_blank" rel="noopener noreferrer">Paperbark Magazine Issue 03</a> 
+## Sample 5: <a href="https://hdl.handle.net/20.500.14394/39427" target="_blank" rel="noopener noreferrer">Issue 03 for Paperbark Magazine/a> 
 ![Thumbnail for Sample 5](thumbnails/Paperbark03cover.jpg)
 
 **Role:** Editorial Assistant and Social Media Lead  
