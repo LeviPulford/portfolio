@@ -66,7 +66,7 @@ Below are examples and brief descriptions of my work. Click on the titles to vie
 
 **Role:** Editorial Assistant and Social Media Lead  
 
-**Description:** Paperbark Magazine bridges science, culture, and sustainability, promoting interdisciplinary thinking and intergenerational collaboration to address critical environmental and societal issues. In Fall 2021, I contributed to the publication of the third printed issue, a project rooted in themes of stewardship, innovation, and possibility. In this role, I collaborated with writers, editors, graphic designers, and scientists to refine content that aligned with the magazine’s mission to illuminate the environmental humanities. Additionally, I developed print and digital assets, managed social media and campus communications, and contributed to a 2x increase in submissions for the following issue.  
+**Description:** [Paperbark Magazine](https://www.paperbarkmag.org) bridges science, culture, and sustainability, promoting interdisciplinary thinking and intergenerational collaboration to address critical environmental and societal issues. In Fall 2021, I contributed to the publication of the third printed issue, a project rooted in themes of stewardship, innovation, and possibility. In this role, I collaborated with writers, editors, graphic designers, and scientists to refine content that aligned with the magazine’s mission to illuminate the environmental humanities. Additionally, I developed print and digital assets, managed social media and campus communications, and contributed to a 2x increase in submissions for the following issue.  
 
 **Tools:** Submittable, Microsoft Word, Adobe InDesign, Instagram, Twitter  
 
