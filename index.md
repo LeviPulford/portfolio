@@ -65,7 +65,7 @@ Below are examples and brief descriptions of my work. Click on the titles to vie
 
 ---
 
-## Sample 5: <a href="https://hdl.handle.net/20.500.14394/39427" target="_blank" rel="noopener noreferrer">Issue 03 for Paperbark Magazine</a> 
+## Sample 5: <a href="https://hdl.handle.net/20.500.14394/39427" target="_blank" rel="noopener noreferrer">Issue 03 of Paperbark Magazine</a> 
 ![Thumbnail for Sample 5](thumbnails/Paperbark03cover.jpg)
 
 **Role:** Editorial Assistant and Social Media Lead  
