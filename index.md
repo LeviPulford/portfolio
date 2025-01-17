@@ -4,12 +4,12 @@ title: "Portfolio"
 ---
 # Portfolio
 
-Below you will find samples of my work. Click on the titles to view or download the full sample.
+Below you will find samples of my work. Click on linked titles to view or download the full sample.
 
 ---
 
 ## Player's Manual to Generative AI Standards
-![Thumbnail for Sample 1]()
+![Thumbnail for Sample 1](thumbnails/Generative AI Player Manual.pdf)
 Please contact me for a copy.
 
 **Role:** Author 
