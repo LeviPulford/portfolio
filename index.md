@@ -24,7 +24,7 @@ Below are examples and brief descriptions of my work. Click on the titles to vie
 
 ---
 
-## <a href="https://www.sigcas.org/2023/11/15/computers-and-society-volume-52-number-2-november-2023-issue-now-available/" target="_blank" rel="noopener noreferrer">Op-Ed for *Computers and Society*</a>  
+## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/e786dec709fa7b1fa50092664624f2a00cb454f6/PDF%20Downloads/Levi's%20Op-Ed.pdf" download>Op-Ed for *Computers and Society*</a>  
 ![Thumbnail for Sample 3](thumbnails/SIGCAS Screenshot.jpg) 
 
 **Role:** Lecturer  
