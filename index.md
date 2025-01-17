@@ -47,7 +47,7 @@ Below are examples and brief descriptions of my work. Click on the titles to vie
 
 ---
 
-## Sample 4: <a href="https://www.umass.edu/writing-program/chatgpt" target="_blank" rel="noopener noreferrer">Teaching Writing in the Age of ChatGPT</a> ![Thumbnail for Sample 4](path-to-thumbnail-4.jpg)
+## Sample 4: <a href="https://www.umass.edu/writing-program/chatgpt" target="_blank" rel="noopener noreferrer">Teaching Writing in the Age of ChatGPT</a> ![Thumbnail for Sample 4](thumbnails/Teaching Writing Screenshot.jpg)
 
 **Role:** Graduate Assistant Director for Teacher Training  
 
