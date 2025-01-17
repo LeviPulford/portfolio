@@ -27,8 +27,9 @@ Click [here](https://www.liberal-arts.ai/2024-undergraduate-conference/) for mor
 
 ## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/e786dec709fa7b1fa50092664624f2a00cb454f6/PDF%20Downloads/Levi's%20Op-Ed.pdf" download>Op-Ed for *Computers and Society*</a>  
 ![Thumbnail for Sample 3](thumbnails/SIGCAS Screenshot.jpg) 
+Click [here](https://www.sigcas.org/2023/11/15/computers-and-society-volume-52-number-2-november-2023-issue-now-available/) for the full issue.
 
-**Role:** Lecturer  
+**Role:** Contributor 
 
 **Description:** I was invited by the chair of the ACM special interest group Computers and Society (SIGGCAS) to contribute a "quick-take" op-ed for the September 2023 newsletter. My piece, titled "'All Watched Over By Machines': AI Ethics, Surveillance, and Pluralism," explores the social and ethical consequences of AI and surveillance technologies, advocating for pluralistic approaches to technological governance. This work reflects SIGCAS's mission to raise awareness about the societal impact of technology.  
 
