@@ -51,7 +51,7 @@ Below are examples and brief descriptions of my work. Click on the titles to vie
 
 **Role:** Graduate Assistant Director for Teacher Training  
 
-**Description:** For the UMass Amherst Writing Program, I co-developed the "Teaching Writing in the Age of ChatGPT" webpage for writing instructors in the 2022-2023 academic year. This resource equips educators with theoretically informed strategies to adapt to the challenges and opportunities posed by AI in writing pedagogy. My primary contribution was the section on Scholarly Roots for Writing Studies' Best Practices, which highlights foundational research in process pedagogy, critical self-reflection, and writing-to-learn strategies. Much of this research was work I had accumulated over 15 credits of graduate-level courses in composition and rhetoric. The webpage continues to serve instructors across first-year writing, junior-year writing, and writing-across-the-disciplines courses.  
+**Description:** For the UMass Amherst Writing Program, I co-developed the "Teaching Writing in the Age of ChatGPT" webpage for instructors during the 2022-2023 academic year. This resource equips educators with theoretically informed strategies to adapt to the challenges and opportunities posed by AI in writing pedagogy. My primary contribution was the section on Scholarly Roots for Writing Studies' Best Practices, which highlights foundational research in process pedagogy, critical self-reflection, and writing-to-learn strategies. Much of this research was work I had accumulated over 15 credits of graduate-level courses in composition and rhetoric. The webpage continues to serve instructors across first-year writing, junior-year writing, and writing-across-the-disciplines courses.  
 
 **Tools:** Google Docs  
 
