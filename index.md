@@ -27,7 +27,7 @@ Please contact me for access.
 ---
 ## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/df5e4355b89330944d8b549d43eb6c7feeb902b6/PDF%20Downloads/AILA%20Workshop%20Slides.pdf" download>Workshop on Writing with AI</a>
 ![Thumbnail for Sample 2](thumbnails/AILA Workshop.jpg)
-Click <a href="https://www.liberal-arts.ai/2024-undergraduate-conference/" target="_blank" rel="noopener noreferrer">here</a> for more information.
+Read about <a href="https://www.liberal-arts.ai/2024-undergraduate-conference/" target="_blank" rel="noopener noreferrer">the 2024 AILA conference</a>.
 
 **Role:** Writing Center Associate  
 
@@ -44,7 +44,7 @@ Click <a href="https://www.liberal-arts.ai/2024-undergraduate-conference/" targe
 
 ## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/e786dec709fa7b1fa50092664624f2a00cb454f6/PDF%20Downloads/Levi's%20Op-Ed.pdf" download>Op-Ed for *Computers and Society*</a>  
 ![Thumbnail for Sample 3](thumbnails/SIGCAS Screenshot.jpg) 
-Click <a href="https://www.sigcas.org/2023/11/15/computers-and-society-volume-52-number-2-november-2023-issue-now-available/" target="_blank" rel="noopener noreferrer">here</a> for the full issue.
+Read <a href="https://www.sigcas.org/2023/11/15/computers-and-society-volume-52-number-2-november-2023-issue-now-available/" target="_blank" rel="noopener noreferrer">the full issue</a>.
 
 **Role:** Contributor 
 
@@ -78,7 +78,7 @@ Click <a href="https://www.sigcas.org/2023/11/15/computers-and-society-volume-52
 ## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/76cd443821e4ff1f7da2349d50ca79ab2bc9779b/PDF%20Downloads/Paperbark%20Issue03-compressed.pdf" download>Issue 03 of Paperbark Magazine</a> 
 <img src="thumbnails/Paperbark03cover.jpg" alt="Thumbnail for Issue 03 of Paperbark Magazine" width="200">
 
-Click <a href="https://scholarworks.umass.edu/entities/publication/ccfd8431-c1bf-4636-b18e-3234c135ccc0" target="_blank" rel="noopener noreferrer">here</a> for a high-resolution copy.
+View <a href="https://scholarworks.umass.edu/entities/publication/ccfd8431-c1bf-4636-b18e-3234c135ccc0" target="_blank" rel="noopener noreferrer">a high-resolution copy</a>.
 
 **Role:** Editorial Assistant and Social Media Lead  
 
