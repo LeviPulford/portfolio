@@ -27,6 +27,7 @@ Please contact me for access.
 ---
 ## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/df5e4355b89330944d8b549d43eb6c7feeb902b6/PDF%20Downloads/AILA%20Workshop%20Slides.pdf" download>Workshop on Writing with AI</a>
 ![Thumbnail for Sample 2](thumbnails/AILA Workshop.jpg)
+
 Read about <a href="https://www.liberal-arts.ai/2024-undergraduate-conference/" target="_blank" rel="noopener noreferrer">the 2024 AILA conference</a>.
 
 **Role:** Writing Center Associate  
@@ -44,6 +45,7 @@ Read about <a href="https://www.liberal-arts.ai/2024-undergraduate-conference/" 
 
 ## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/e786dec709fa7b1fa50092664624f2a00cb454f6/PDF%20Downloads/Levi's%20Op-Ed.pdf" download>Op-Ed for *Computers and Society*</a>  
 ![Thumbnail for Sample 3](thumbnails/SIGCAS Screenshot.jpg) 
+
 Read <a href="https://www.sigcas.org/2023/11/15/computers-and-society-volume-52-number-2-november-2023-issue-now-available/" target="_blank" rel="noopener noreferrer">the full issue</a>.
 
 **Role:** Contributor 
