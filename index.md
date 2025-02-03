@@ -4,7 +4,7 @@ title: "Portfolio"
 ---
 # Portfolio
 
-Below you will find samples of my work. Click on linked titles to view or download the full sample.
+Below you will find samples of my work. Click on linked titles to view or download the full sample. All views expressed are my own.
 
 ---
 
@@ -15,7 +15,7 @@ Please contact me for access.
 
 **Role:** Author 
 
-**Description:** I created a 29-page concept of operations, or ConOps, designed for emerging AI and data science professionals. It includes resources for navigating technical standards in generative AI and applies governance frameworks to widely taught concepts in computer science and machine learning, such as tokens and transformers. By framing the contents as a player's manual, this document leverages prior knowledge of games to facilitate knowledge transfer about AI. It also remains politically neutral, in that it does not call for or critique either regulatory or deregulatory approaches. Instead, it emphasizes the voluntary nature of standards. Additionally, this ConOps applies two forms of reasoning—reasoning with first principles and reasoning with analogy—to help AI professionals create ethical mental models of their work.
+**Description:** As a personal project, I created a 29-page concept of operations, or ConOps, featuring resources for navigating technical standards in generative AI. It applies governance frameworks to widely taught concepts in computer science and machine learning, such as tokens and transformers. By framing the contents as a player's manual, this document leverages prior knowledge of games to facilitate knowledge transfer about AI. It also remains politically neutral, in that it does not call for or critique either regulatory or deregulatory approaches. Instead, it emphasizes the voluntary nature of standards. Additionally, this ConOps applies two forms of reasoning—reasoning with first principles and reasoning with analogy—to help AI professionals create ethical mental models of their work.
 
 **Tools:** Microsoft Word, Google Slides, Adobe InDesign
 
