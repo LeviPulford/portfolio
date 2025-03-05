@@ -11,6 +11,7 @@ Below you will find samples of my work. All views expressed are my own. Click on
 ## Environmental Sustainability Documentation for Local Governments
 
 **Roles:** Writer, Editor, Production Specialist
+
 **Description:** As part of a collaborative project in the University of Washington technical writing certificate program, I worked with two fellow cohort members to develop instructional, persuasive, and informative materials on environmental technology and sustainability. Our work supported local government initiatives in Norfolk, VA; Redlands, CA; and Morrisville, NC, with a focus on improving public engagement and accessibility of information. Each document was designed for clarity, usability, and effectiveness in addressing community needs.
 * **Recycling Instructional Aid for Norfolk, VA (Production Specialist):** An infographic helping residents properly sort recyclables to reduce contamination and improve waste management efficiency.*
 * **Solar Panel Installation Proposal for Redlands, CA (Editor):** A formal proposal advocating for municipal solar energy adoption, including cost-benefit analysis, funding opportunities, and environmental impact assessments.
