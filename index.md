@@ -15,7 +15,7 @@ Below you will find samples of my work. All views expressed are my own. Click on
 **Description:** As part of a collaborative project in the University of Washington technical writing certificate program, I worked with two fellow cohort members to develop instructional, persuasive, and informative materials on environmental technology and sustainability. Our work supported local government initiatives in Norfolk, VA; Redlands, CA; and Morrisville, NC, with a focus on improving public engagement and accessibility of information. Each document was designed for clarity, usability, and effectiveness in addressing community needs.
 * **Recycling Aid for Norfolk, VA (Production Specialist):** An infographic helping residents properly sort recyclables to reduce contamination and improve waste management efficiency.
 * **Solar Panel Installation Proposal for Redlands, CA (Editor):** A formal proposal advocating for municipal solar energy adoption, including cost-benefit analysis, funding opportunities, and environmental impact assessments.
-* **Indoor Air Quality Fact Sheets for Morrisville, NC (Writer):** A set of concise fact sheets detailing polllutant sources, air quality monitoring metrics, health risks, and mitigation techniques for residential and public spaces.
+* **Indoor Air Quality Fact Sheets for Morrisville, NC (Writer):** A set of concise fact sheets detailing pollutant sources, air quality monitoring metrics, health risks, and mitigation techniques for residential and public spaces.
 
 **Tools:** Microsoft Word, Adobe InDesign
 
