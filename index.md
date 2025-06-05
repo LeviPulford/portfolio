@@ -9,13 +9,15 @@ Below you will find samples of my work. All views expressed are my own. Click on
 ---
 ## Contents
 
-- [📝 Note-Taking App Usability Report](#note-taking-app-usability-report-notion--obsidian)
-- [🌿 Sustainability Materials for Local Governments](#sustainability-materials-for-local-governments)
-- [🎮 Generative AI Standards: A Player’s Manual](#generative-ai-standards-a-players-manual)
-- [🤝 Writing with AI Workshop](#writing-with-ai-workshop)
-- [🗞️ Op-Ed on AI Ethics for *Computers and Society*](#op-ed-on-ai-ethics-for-computers-and-society)
-- [🧰 Toolkit for Teaching Writing in the Age of ChatGPT](#toolkit-for-teaching-writing-in-the-age-of-chatgpt)
-- [🌳 Paperbark Magazine Issue 03](#paperbark-magazine-issue-03)
+<ul style="list-style: none; padding-left: 0;">
+  <li><a href="#note-taking-app-usability-report-notion--obsidian">📝 Note-Taking App Usability Report</a></li>
+  <li><a href="#sustainability-materials-for-local-governments">🌿 Sustainability Materials for Local Governments</a></li>
+  <li><a href="#generative-ai-standards-a-players-manual">🎮 Generative AI Standards: A Player’s Manual</a></li>
+  <li><a href="#writing-with-ai-workshop">🤝 Writing with AI Workshop</a></li>
+  <li><a href="#op-ed-on-ai-ethics-for-computers-and-society">🗞️ Op-Ed on AI Ethics for <em>Computers and Society</em></a></li>
+  <li><a href="#toolkit-for-teaching-writing-in-the-age-of-chatgpt">🧰 Toolkit for Teaching Writing in the Age of ChatGPT</a></li>
+  <li><a href="#paperbark-magazine-issue-03">🌳 Paperbark Magazine Issue 03</a></li>
+</ul>
 
 ---
 ## <a href="https://aokoye.github.io/ptw330-usabilityreport/" target="_blank" rel="noopener noreferrer">Note-Taking App Usability Report: Notion & Obsidian</a> 
