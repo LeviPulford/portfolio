@@ -8,17 +8,18 @@ title: "Portfolio"
 Below you will find samples of my work. All views expressed are my own. Click on linked titles to view or download the full sample.
 
 ---
-## Contents
-
-<ul style="list-style: none; padding-left: 0; font-size: 1rem; line-height: 1.6;">
-  <li><a href="#note-taking-app-usability-report-notion--obsidian">📝 Note-Taking App Usability Report</a></li>
-  <li><a href="#sustainability-materials-for-local-governments">🌿 Sustainability Materials for Local Governments</a></li>
-  <li><a href="#generative-ai-standards-a-players-manual">🎮 Generative AI Standards: A Player’s Manual</a></li>
-  <li><a href="#writing-with-ai-workshop">🤝 Writing with AI Workshop</a></li>
-  <li><a href="#op-ed-on-ai-ethics-for-computers-and-society">🗞️ Op-Ed on AI Ethics for <em>Computers and Society</em></a></li>
-  <li><a href="#toolkit-for-teaching-writing-in-the-age-of-chatgpt">🧰 Toolkit for Teaching Writing in the Age of ChatGPT</a></li>
-  <li><a href="#paperbark-magazine-issue-03">🌳 Paperbark Magazine Issue 03</a></li>
-</ul>
+<div style="margin: 2rem 0;">
+  <div style="font-size: 1.5em; font-weight: 600; margin-bottom: 1rem;">Contents</div>
+  <ul style="list-style: none; padding-left: 0; font-size: 1rem; line-height: 1.6;">
+    <li><a href="#note-taking-app-usability-report-notion--obsidian">📝 Note-Taking App Usability Report</a></li>
+    <li><a href="#sustainability-materials-for-local-governments">🌿 Sustainability Materials for Local Governments</a></li>
+    <li><a href="#generative-ai-standards-a-players-manual">🎮 Generative AI Standards: A Player’s Manual</a></li>
+    <li><a href="#writing-with-ai-workshop">🤝 Writing with AI Workshop</a></li>
+    <li><a href="#op-ed-on-ai-ethics-for-computers-and-society">🗞️ Op-Ed on AI Ethics for <em>Computers and Society</em></a></li>
+    <li><a href="#toolkit-for-teaching-writing-in-the-age-of-chatgpt">🧰 Toolkit for Teaching Writing in the Age of ChatGPT</a></li>
+    <li><a href="#paperbark-magazine-issue-03">🌳 Paperbark Magazine Issue 03</a></li>
+  </ul>
+</div>
 
 ---
 ## <a href="https://aokoye.github.io/ptw330-usabilityreport/" target="_blank" rel="noopener noreferrer">Note-Taking App Usability Report: Notion & Obsidian</a> 
