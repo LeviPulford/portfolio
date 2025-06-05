@@ -8,7 +8,6 @@ Below you will find samples of my work. All views expressed are my own. Click on
 
 ---
 ## [Note-Taking App Usability Report: Notion & Obsidian](https://aokoye.github.io/ptw330-usabilityreport/)
-
 <div style="max-width: 1000px; margin: 0 auto; padding: 1rem;">
   <iframe
     style="width: 100%; height: 500px; border: 1px solid rgba(0, 0, 0, 0.1);"
