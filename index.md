@@ -11,7 +11,7 @@ Below you will find samples of my work. All views expressed are my own. Click on
 <div style="max-width: 1000px; margin: 0 auto; padding: 1rem;">
   <iframe
     style="width: 100%; height: 500px; border: 0px solid rgba(0, 0, 0, 0.1);"
-    src="https://embed.figma.com/deck/Lnusk1eynpjrWycjsJvEIX/UI-Breakdowns?scaling=scale-down&hide-ui=1"
+    src="https://embed.figma.com/deck/Lnusk1eynpjrWycjsJvEIX/UI-Breakdowns?node-id=2001-47&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&embed-host=share"
     allowfullscreen>
   </iframe>
 </div>
