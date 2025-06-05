@@ -61,7 +61,7 @@ I served as the chief technology evangelist of Calm Technology principles from A
 * Applied technical writing best practices to support environmental sustainability efforts.
 
 ---
-## Player's Manual to Generative AI Standards
+## Generative AI Standards: A Player's Manual
 <img src="thumbnails/Generative AI Player Manual.jpg" alt="Thumbnail for Player's Manual to Generative AI Standards" width="200">
 
 Please contact me for access.
