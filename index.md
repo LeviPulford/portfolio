@@ -20,39 +20,28 @@ Below you will find samples of my work. All views expressed are my own. Click on
 </ul>
 
 ---
+## <a href="https://aokoye.github.io/ptw330-usabilityreport/" target="_blank" rel="noopener noreferrer">Note-Taking App Usability Report: Notion & Obsidian</a> 
+<div style="max-width: 1000px; margin: 0 auto; padding: 1rem;">
+  <iframe
+    style="width: 100%; height: 335px; border: none;"
+    src="https://embed.figma.com/deck/Lnusk1eynpjrWycjsJvEIX/UI-Breakdowns?node-id=2001-47&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&embed-host=share"
+    allowfullscreen>
+  </iframe>
+</div>
+*Interactive UI breakdowns inspired by <a href="https://www.useronboard.com/user-onboarding-teardowns/" target="_blank" rel="noopener noreferrer">Samuel Hulick's UX Teardowns</a>*
 
-<details open>
-  <summary><strong>📝 <a href="https://aokoye.github.io/ptw330-usabilityreport/" target="_blank" rel="noopener noreferrer">Note-Taking App Usability Report: Notion & Obsidian</a></strong></summary>
+**Roles:** UX Researcher · Content Strategist · Chief Calm Technology Evangelist · Multimedia Specialist
 
-  <div style="max-width: 1000px; margin: 1rem auto;">
-    <iframe
-      style="width: 100%; height: 335px; border: none;"
-      src="https://embed.figma.com/deck/Lnusk1eynpjrWycjsJvEIX/UI-Breakdowns?node-id=2001-47&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&embed-host=share"
-      allowfullscreen>
-    </iframe>
-  </div>
+**Description:** As part of the capstone project for the University of Washington’s Certificate in Professional Technical Writing, I collaborated on a comparative usability study of two popular note-taking applications, Notion and Obsidian. Our team of five UX researchers evaluated onboarding workflows, user satisfaction, and interface design, grounding recommendations in data analysis. I contributed across UX, content, and visual strategy roles by conducting secondary research drawing from Nielsen Norman Group to inform content strategy; developing user and product manager personas to align usability with business impact; translating research insights into actionable recommendations; and producing interactive UI breakdowns, attention graphs, and visual workflows to clarify user journeys and interface demands.
 
-  <p><em>Interactive UI breakdowns inspired by <a href="https://www.useronboard.com/user-onboarding-teardowns/" target="_blank" rel="noopener noreferrer">Samuel Hulick's UX Teardowns</a></em></p>
+As our team's chief technology evangelist of Calm Technology principles from Amber Case, I advocated for low-friction, ambient user experiences. Simultaneously informed by Alexandra Mack’s *Talking to Stakeholders*, I practiced risk framing and strategic listening to ensure recommendations aligned with organizational priorities as well as user needs.
 
-  <p><strong>Roles:</strong> UX Researcher · Content Strategist · Chief Calm Technology Evangelist · Multimedia Specialist</p>
+**Tools:** Figma, Canva, Google Drive, Google Forms, Apple Screen Recording
 
-  <p><strong>Description:</strong> As part of the capstone project for the University of Washington’s Certificate in Professional Technical Writing, I collaborated on a comparative usability study of two popular note-taking applications, Notion and Obsidian. Our team of five UX researchers evaluated onboarding workflows, user satisfaction, and interface design, grounding recommendations in data analysis.</p>
-
-  <p>I contributed across UX, content, and visual strategy roles by conducting secondary research drawing from Nielsen Norman Group to inform content strategy; developing user and product manager personas to align usability with business impact; translating research insights into actionable recommendations; and producing interactive UI breakdowns, attention graphs, and visual workflows to clarify user journeys and interface demands.</p>
-
-  <p>As our team's chief technology evangelist of Calm Technology principles from Amber Case, I advocated for low-friction, ambient user experiences. Simultaneously informed by Alexandra Mack’s <em>Talking to Stakeholders</em>, I practiced risk framing and strategic listening to ensure recommendations aligned with organizational priorities as well as user needs.</p>
-
-  <p><strong>Tools:</strong> Figma, Canva, Google Drive, Google Forms, Apple Screen Recording</p>
-
-  <p><strong>Highlights:</strong></p>
-  <ul>
-    <li>Developed an attention-based UI framework to diagnose usability pain points</li>
-    <li>Applied user- and stakeholder-aligned design principles to support long-term value creation</li>
-    <li>Combined ambient design theory with practical UX research methods for product insight</li>
-  </ul>
-
-  <p style="text-align: right;"><a href="#top">🔝 Back to Top</a></p>
-</details>
+**Highlights:**
+* Developed an attention-based UI framework to diagnose usability pain points
+* Applied user- and stakeholder-aligned design principles to support long-term value creation
+* Combined ambient design theory with practical UX research methods for product insight
 
 ---
 ## Sustainability Materials for Local Governments 
