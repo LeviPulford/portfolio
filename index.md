@@ -10,7 +10,7 @@ Below you will find samples of my work. All views expressed are my own. Click on
 ## [Note-Taking App Usability Report: Notion & Obsidian](https://aokoye.github.io/ptw330-usabilityreport/)
 <div style="max-width: 1000px; margin: 0 auto; padding: 1rem;">
   <iframe
-    style="width: 100%; height: 350px; border: none;"
+    style="width: 100%; height: 320px; border: none;"
     src="https://embed.figma.com/deck/Lnusk1eynpjrWycjsJvEIX/UI-Breakdowns?node-id=2001-47&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&embed-host=share"
     allowfullscreen>
   </iframe>
