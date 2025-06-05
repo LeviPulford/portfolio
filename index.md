@@ -8,8 +8,15 @@ title: "Portfolio"
 Below you will find samples of my work. All views expressed are my own. Click on linked titles to view or download the full sample.
 
 ---
-<div style="margin: 2rem 0;">
+<div style="
+  background-color: #f5f5f5;
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin: 2rem 0;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+
   <div style="font-size: 1.5em; font-weight: 600; margin-bottom: 1rem;">Contents</div>
+  
   <ul style="list-style: none; padding-left: 0; font-size: 1rem; line-height: 1.6;">
     <li><a href="#note-taking-app-usability-report-notion--obsidian">📝 Note-Taking App Usability Report</a></li>
     <li><a href="#sustainability-materials-for-local-governments">🌿 Sustainability Materials for Local Governments</a></li>
