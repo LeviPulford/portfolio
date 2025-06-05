@@ -32,11 +32,6 @@ I served as the chief technology evangelist of Calm Technology principles from A
 
 ---
 ## Environmental Sustainability Documentation for Local Governments
-<div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-  <img src="thumbnails/recyclingaid.JPEG" alt="Thumbnail for Recycling Aid" height="100" width="75">
-  <img src="thumbnails/proposal.JPEG" alt="Thumbnail for Proposal" height="100" width="75">
-  <img src="thumbnails/factsheet.JPEG" alt="Thumbnail for Fact Sheets" height="100" width="75">
-</div>
 
 **Roles:** Writer · Editor · Production Specialist
 
