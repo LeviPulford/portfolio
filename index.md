@@ -38,6 +38,7 @@ I served as the chief technology evangelist of Calm Technology principles from A
   <img src="thumbnails/factsheet.jpg" alt="Thumbnail for Fact Sheets" height="250">
 </div>
 
+
 **Roles:** Writer · Editor · Production Specialist
 
 **Description:** As part of a collaborative project in the University of Washington technical writing certificate program, I worked with two fellow cohort members to develop instructional, persuasive, and informative materials on environmental technology and sustainability. Our work supported local government initiatives in Norfolk, VA; Redlands, CA; and Morrisville, NC, with a focus on improving public engagement and accessibility of information. Each document was designed for clarity, usability, and effectiveness in addressing community needs.
