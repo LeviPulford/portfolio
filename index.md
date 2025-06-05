@@ -7,6 +7,17 @@ title: "Portfolio"
 Below you will find samples of my work. All views expressed are my own. Click on linked titles to view or download the full sample.
 
 ---
+## Contents
+
+- [📝 Note-Taking App Usability Report](#note-taking-app-usability-report-notion--obsidian)
+- [🌿 Sustainability Materials for Local Governments](#sustainability-materials-for-local-governments)
+- [🎮 Generative AI Standards: A Player’s Manual](#generative-ai-standards-a-players-manual)
+- [🤝 Writing with AI Workshop](#writing-with-ai-workshop)
+- [🗞️ Op-Ed on AI Ethics for *Computers and Society*](#op-ed-on-ai-ethics-for-computers-and-society)
+- [🧰 Toolkit for Teaching Writing in the Age of ChatGPT](#toolkit-for-teaching-writing-in-the-age-of-chatgpt)
+- [🌳 Paperbark Magazine Issue 03](#paperbark-magazine-issue-03)
+
+---
 ## <a href="https://aokoye.github.io/ptw330-usabilityreport/" target="_blank" rel="noopener noreferrer">Note-Taking App Usability Report: Notion & Obsidian</a> 
 <div style="max-width: 1000px; margin: 0 auto; padding: 1rem;">
   <iframe
