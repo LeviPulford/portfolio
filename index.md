@@ -73,6 +73,9 @@ Below you will find samples of my work. All views expressed are my own. Click on
 
 As our team's chief technology evangelist of Calm Technology principles from Amber Case, I advocated for low-friction, ambient user experiences. Simultaneously informed by Alexandra Mack’s *Talking to Stakeholders*, I practiced risk framing and strategic listening to ensure recommendations aligned with organizational priorities as well as user needs.
 
+📎 <a href="PDF%20Downloads/Team%20ESC%20Supplemental%20Materials.pdf" download>Click here to view the usability report's Supplemental Materials</a>
+
+
 **Tools:** Figma, Canva, Google Drive, Google Forms, Apple Screen Recording
 
 **Highlights:**
