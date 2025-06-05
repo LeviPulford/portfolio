@@ -7,7 +7,7 @@ title: "Portfolio"
 Below you will find samples of my work. All views expressed are my own. Click on linked titles to view or download the full sample.
 
 ---
-## [Note-Taking App Usability Report: Notion & Obsidian](https://aokoye.github.io/ptw330-usabilityreport/)
+## <a href="https://aokoye.github.io/ptw330-usabilityreport/" target="_blank" rel="noopener noreferrer">Note-Taking App Usability Report: Notion & Obsidian</a>
 <div style="max-width: 1000px; margin: 0 auto; padding: 1rem;">
   <iframe
     style="width: 100%; height: 335px; border: none;"
@@ -15,7 +15,7 @@ Below you will find samples of my work. All views expressed are my own. Click on
     allowfullscreen>
   </iframe>
 </div>
-*Interactive UI breakdowns inspired by [Samuel Hulick's UX Teardowns](https://www.useronboard.com/user-onboarding-teardowns/)*
+*Interactive UI breakdowns inspired by <a href="https://www.useronboard.com/user-onboarding-teardowns/" target="_blank" rel="noopener noreferrer">Samuel Hulick's UX Teardowns</a>*
 
 **Roles:** UX Researcher · Content Strategist · Chief Calm Technology Evangelist · Multimedia Specialist
 
