@@ -10,9 +10,6 @@ Below you will find samples of my work. All views expressed are my own. Click on
 ---
 ## Contents
 
-<div style="font-size: 1.5em; font-weight: 600; margin-top: 1.5em; margin-bottom: 0.5em;">
-  Contents
-</div>
 <ul style="list-style: none; padding-left: 0; font-size: 1rem; line-height: 1.6;">
   <li><a href="#note-taking-app-usability-report-notion--obsidian">📝 Note-Taking App Usability Report</a></li>
   <li><a href="#sustainability-materials-for-local-governments">🌿 Sustainability Materials for Local Governments</a></li>
