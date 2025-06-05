@@ -21,7 +21,7 @@ Below you will find samples of my work. All views expressed are my own. Click on
 
 **Description:** As part of the capstone project for the University of Washington’s Certificate in Professional Technical Writing, I collaborated on a comparative usability study of two popular note-taking applications, Notion and Obsidian. Our team of five UX researchers evaluated onboarding workflows, user satisfaction, and interface design, grounding recommendations in data analysis. I contributed across UX, content, and visual strategy roles by conducting secondary research drawing from Nielsen Norman Group to inform content strategy; developing user and product manager personas to align usability with business impact; translating research insights into actionable recommendations; and producing interactive UI breakdowns, attention graphs, and visual workflows to clarify user journeys and interface demands.
 
-I served as the chief technology evangelist of Calm Technology principles from Amber Case to advocate for low-friction, ambient user experiences. Simultaneously informed by Alexandra Mack’s *Talking to Stakeholders*, I practiced risk framing and strategic listening to ensure recommendations aligned with organizational priorities as well as user needs.
+As our team's chief technology evangelist of Calm Technology principles from Amber Case, I advocated for low-friction, ambient user experiences. Simultaneously informed by Alexandra Mack’s *Talking to Stakeholders*, I practiced risk framing and strategic listening to ensure recommendations aligned with organizational priorities as well as user needs.
 
 **Tools:** Figma, Canva, Google Drive, Google Forms, Apple Screen Recording
 
@@ -47,11 +47,10 @@ I served as the chief technology evangelist of Calm Technology principles from A
   An infographic helping residents properly sort recyclables to reduce contamination and improve waste management efficiency.
 
 * <a href="PDF%20Downloads/Redlands%20CA%20Proposal.pdf" download>📄 Download Solar Panel Installation Proposal for Redlands, CA</a><br>
-  A formal proposal advocating for municipal solar energy adoption, including cost-benefit analysis, funding opportunities, and environmental impact assessments.
+  A formal proposal advocating for municipal solar energy adoption.
 
 * <a href="PDF%20Downloads/Morrisville%20NC%20Fact%20Sheets.pdf" download>📄 Download Indoor Air Quality Fact Sheets for Morrisville, NC</a><br>
-  A set of concise fact sheets detailing pollutant sources, air quality monitoring metrics, health risks, and mitigation techniques for residential and public spaces.
-
+  A set of concise fact sheets detailing pollutant sources, air quality monitoring metrics, and mitigation techniques.
 
 **Tools:** Microsoft Word, Adobe InDesign
 
