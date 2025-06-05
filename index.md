@@ -18,7 +18,7 @@ Below you will find samples of my work. All views expressed are my own. Click on
 
 **Roles:** UX Researcher · Content Strategist · Chief Calm Technology Evangelist · Multimedia Specialist
 
-**Description:** As part of the capstone project for the University of Washington’s Certificate in Professional Technical Writing, I collaborated on a comparative usability study of two popular note-taking applications, Notion and Obsidian. Our team evaluated onboarding workflows, user satisfaction, and interface design, grounding recommendations in data analysis.
+**Description:** As part of the capstone project for the University of Washington’s Certificate in Professional Technical Writing, I collaborated on a comparative usability study of two popular note-taking applications, Notion and Obsidian. Our team of five UX researchers evaluated onboarding workflows, user satisfaction, and interface design, grounding recommendations in data analysis.
 
 I contributed across UX, content, and visual strategy roles:
 * Conducted secondary research drawing from Nielsen Norman Group to inform content strategy
@@ -32,7 +32,7 @@ Notably, I served as the chief technology evangelist of Calm Technology principl
 **Tools:** Figma, Canva, Google Drive, Google Forms, Apple Screen Recording
 
 **Highlights:**
-* Developed an attention-based UI framework to diagnose usability friction
+* Developed an attention-based UI framework to diagnose usability pain points
 * Applied user- and stakeholder-aligned design principles to support long-term value creation
 * Combined ambient design theory with practical UX research methods for product insight
 
