@@ -162,22 +162,28 @@ View <a href="https://scholarworks.umass.edu/entities/publication/ccfd8431-c1bf-
 <a href="#top" id="backToTop" style="
   display: none;
   position: fixed;
-  bottom: 2rem;
-  right: 2rem;
-  background-color: white;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  background-color: #f9f9f9;
   border: 1px solid #ccc;
-  padding: 0.5rem 0.75rem;
-  border-radius: 6px;
-  font-size: 0.9rem;
+  padding: 0.4rem 0.8rem;
+  border-radius: 5px;
+  font-size: 0.85rem;
   text-decoration: none;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  box-shadow: 0 1px 5px rgba(0,0,0,0.1);
   z-index: 1000;
-  color: #333;">
+  color: #444;
+  transition: background-color 0.2s ease, box-shadow 0.2s ease;">
   🔝 Back to Top
 </a>
-
+<style>
+  #backToTop:hover {
+    background-color: #eee;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+  }
+</style>
 <script>
-  // Show/hide the Back to Top button based on scroll position
   window.onscroll = function() {
     const btn = document.getElementById("backToTop");
     if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
@@ -187,4 +193,3 @@ View <a href="https://scholarworks.umass.edu/entities/publication/ccfd8431-c1bf-
     }
   };
 </script>
-
