@@ -1,6 +1,3 @@
-<div id="progressBarContainer">
-  <div id="progressBar"></div>
-</div>
 ---
 layout: default
 title: "Portfolio"
@@ -9,6 +6,10 @@ title: "Portfolio"
 # Portfolio
 
 Below you will find samples of my work. All views expressed are my own. Click on linked titles to view or download the full sample.
+
+<div id="progressBarContainer">
+  <div id="progressBar"></div>
+</div>
 
 ---
 <div style="
