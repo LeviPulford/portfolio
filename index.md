@@ -31,7 +31,7 @@ I served as the chief technology evangelist of Calm Technology principles from A
 * Combined ambient design theory with practical UX research methods for product insight
 
 ---
-## Environmental Sustainability Documentation for Local Governments
+## Sustainability Materials for Local Governments
 <div style="display: flex; gap: 1rem; justify-content: left; flex-wrap: wrap;">
   <img src="thumbnails/recyclingaid.jpg" alt="Thumbnail for Recycling Aid" height="250">
   <img src="thumbnails/proposal.jpg" alt="Thumbnail for Proposal" height="250">
@@ -78,7 +78,7 @@ Please contact me for access.
 * Addressed emerging industry needs by outlining best practices for ethical and practical AI development.
 
 ---
-## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/df5e4355b89330944d8b549d43eb6c7feeb902b6/PDF%20Downloads/AILA%20Workshop%20Slides.pdf" download>Workshop on Writing with AI</a>
+## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/df5e4355b89330944d8b549d43eb6c7feeb902b6/PDF%20Downloads/AILA%20Workshop%20Slides.pdf" download>Writing with AI Workshop</a>
 ![Thumbnail for Sample 2](thumbnails/AILA Workshop.jpg)
 
 Read about <a href="https://www.liberal-arts.ai/2024-undergraduate-conference/" target="_blank" rel="noopener noreferrer">the 2024 AILA conference</a>.
@@ -96,7 +96,7 @@ Read about <a href="https://www.liberal-arts.ai/2024-undergraduate-conference/" 
 
 ---
 
-## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/e786dec709fa7b1fa50092664624f2a00cb454f6/PDF%20Downloads/Levi's%20Op-Ed.pdf" download>Op-Ed for *Computers and Society*</a>  
+## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/e786dec709fa7b1fa50092664624f2a00cb454f6/PDF%20Downloads/Levi's%20Op-Ed.pdf" download>Op-Ed on AI Ethics for *Computers and Society*</a>  
 ![Thumbnail for Sample 3](thumbnails/SIGCAS Screenshot.jpg) 
 
 Read <a href="https://www.sigcas.org/2023/11/15/computers-and-society-volume-52-number-2-november-2023-issue-now-available/" target="_blank" rel="noopener noreferrer">the full issue</a>.
@@ -130,7 +130,7 @@ Read <a href="https://www.sigcas.org/2023/11/15/computers-and-society-volume-52-
 
 ---
 
-## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/76cd443821e4ff1f7da2349d50ca79ab2bc9779b/PDF%20Downloads/Paperbark%20Issue03-compressed.pdf" download>Issue 03 of Paperbark Magazine</a> 
+## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/76cd443821e4ff1f7da2349d50ca79ab2bc9779b/PDF%20Downloads/Paperbark%20Issue03-compressed.pdf" download>Paperbark Magazine Issue 03</a> 
 <img src="thumbnails/Paperbark03cover.jpg" alt="Thumbnail for Issue 03 of Paperbark Magazine" width="200">
 
 View <a href="https://scholarworks.umass.edu/entities/publication/ccfd8431-c1bf-4636-b18e-3234c135ccc0" target="_blank" rel="noopener noreferrer">a high-resolution copy</a>.
