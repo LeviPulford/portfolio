@@ -37,14 +37,21 @@ I served as the chief technology evangelist of Calm Technology principles from A
   <img src="thumbnails/proposal.jpg" alt="Thumbnail for Proposal" height="250">
   <img src="thumbnails/factsheet.jpg" alt="Thumbnail for Fact Sheets" height="250">
 </div>
-
+*Recycling Aid, Proposal, and Fact Sheet*
 
 **Roles:** Writer · Editor · Production Specialist
 
 **Description:** As part of a collaborative project in the University of Washington technical writing certificate program, I worked with two fellow cohort members to develop instructional, persuasive, and informative materials on environmental technology and sustainability. Our work supported local government initiatives in Norfolk, VA; Redlands, CA; and Morrisville, NC, with a focus on improving public engagement and accessibility of information. Each document was designed for clarity, usability, and effectiveness in addressing community needs.
-* **Recycling Aid for Norfolk, VA (Production Specialist):** An infographic helping residents properly sort recyclables to reduce contamination and improve waste management efficiency.
-* **Solar Panel Installation Proposal for Redlands, CA (Editor):** A formal proposal advocating for municipal solar energy adoption, including cost-benefit analysis, funding opportunities, and environmental impact assessments.
-* **Indoor Air Quality Fact Sheets for Morrisville, NC (Writer):** A set of concise fact sheets detailing pollutant sources, air quality monitoring metrics, health risks, and mitigation techniques for residential and public spaces.
+
+* <a href="PDF%20Downloads/Norfolk%20VA%20Aid.pdf" download>📄 Download Recycling Aid for Norfolk, VA</a><br>
+  An infographic helping residents properly sort recyclables to reduce contamination and improve waste management efficiency.
+
+* <a href="PDF%20Downloads/Redlands%20CA%20Proposal.pdf" download>📄 Download Solar Panel Installation Proposal for Redlands, CA</a><br>
+  A formal proposal advocating for municipal solar energy adoption, including cost-benefit analysis, funding opportunities, and environmental impact assessments.
+
+* <a href="PDF%20Downloads/Morrisville%20NC%20Fact%20Sheets.pdf" download>📄 Download Indoor Air Quality Fact Sheets for Morrisville, NC</a><br>
+  A set of concise fact sheets detailing pollutant sources, air quality monitoring metrics, health risks, and mitigation techniques for residential and public spaces.
+
 
 **Tools:** Microsoft Word, Adobe InDesign
 
