@@ -32,6 +32,9 @@ I served as the chief technology evangelist of Calm Technology principles from A
 
 ---
 ## Environmental Sustainability Documentation for Local Governments
+![Thumbnail 1 for Sample 6](thumbnails/Norfolk VA Aid.jpg)
+![Thumbnail 2 for Sample 6](thumbnails/Redlands CA Propoosal.jpg)
+![Thumbnail 3 for Sample 6](thumbnails/NMorrisville NC Fact Sheets.jpg)
 
 **Roles:** Writer · Editor · Production Specialist
 
