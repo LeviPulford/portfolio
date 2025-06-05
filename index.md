@@ -7,10 +7,34 @@ title: "Portfolio"
 Below you will find samples of my work. All views expressed are my own. Click on linked titles to view or download the full sample.
 
 ---
+## [Note-Taking App Usability Report: Notion & Obsidian](https://aokoye.github.io/ptw330-usabilityreport/)
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/deck/Lnusk1eynpjrWycjsJvEIX/UI-Breakdowns?node-id=2001-47&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&embed-host=share" allowfullscreen></iframe>
+
+**Roles:** UX Researcher · Content Strategist · Chief Calm Technology Evangelist · Multimedia Specialist
+
+**Description:** As part of the capstone project for the University of Washington’s Certificate in Professional Technical Writing, I collaborated on a comparative usability study of two popular note-taking applications, Notion and Obsidian. Our team evaluated onboarding workflows, user satisfaction, and interface design, grounding our recommendations in data analysis.
+
+I contributed across UX, content, and visual strategy roles:
+* Conducted secondary research drawing from Nielsen Norman Group to inform content strategy
+* Designed and implemented our usability testing methodology using think-aloud protocols
+* Created a user persona and a product manager persona to align usability with business impact
+* Translated research insights into actionable recommendations
+* Developed interactive UI breakdowns, attention graphs, and visual workflows to clarify user journeys and interface demands
+
+Notably, I served as the chief technology evangelist of Calm Technology principles from Amber Case to advocate for low-friction, ambient user experiences. Simultaneously informed by Alexandra Mack’s *Talking to Stakeholders*, I practiced risk framing and strategic listening to ensure recommendations aligned with organizational priorities as well as user needs.
+
+**Tools:** Figma, Canva, Google Drive, Google Forms, Apple Screen Recording
+
+**Highlights:**
+* Developed an attention-based UI framework to diagnose usability friction
+* Applied user- and stakeholder-aligned design principles to support long-term value creation
+* Combined ambient design theory with practical UX research methods for product insight
+
+---
 ## Environmental Sustainability Documentation for Local Governments
 
-**Roles:** Writer, Editor, Production Specialist
+**Roles:** Writer · Editor · Production Specialist
 
 **Description:** As part of a collaborative project in the University of Washington technical writing certificate program, I worked with two fellow cohort members to develop instructional, persuasive, and informative materials on environmental technology and sustainability. Our work supported local government initiatives in Norfolk, VA; Redlands, CA; and Morrisville, NC, with a focus on improving public engagement and accessibility of information. Each document was designed for clarity, usability, and effectiveness in addressing community needs.
 * **Recycling Aid for Norfolk, VA (Production Specialist):** An infographic helping residents properly sort recyclables to reduce contamination and improve waste management efficiency.
@@ -99,7 +123,7 @@ Read <a href="https://www.sigcas.org/2023/11/15/computers-and-society-volume-52-
 
 View <a href="https://scholarworks.umass.edu/entities/publication/ccfd8431-c1bf-4636-b18e-3234c135ccc0" target="_blank" rel="noopener noreferrer">a high-resolution copy</a>.
 
-**Role:** Editorial Assistant and Social Media Lead  
+**Role:** Editorial Assistant · Social Media Lead  
 
 **Description:** <a href="https://www.paperbarkmag.org" target="_blank" rel="noopener noreferrer">Paperbark Magazine</a> bridges science, culture, and sustainability, promoting interdisciplinary thinking and intergenerational collaboration to address critical environmental and societal issues. In Fall 2021, I contributed to the publication of the third printed issue, a project rooted in themes of stewardship, innovation, and possibility. In this role, I collaborated with writers, editors, graphic designers, and scientists to refine content that aligned with the magazine’s mission to illuminate the environmental humanities. Additionally, I developed print and digital assets, managed social media and campus communications, and contributed to a 2x increase in submissions for the following issue.  
 
