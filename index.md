@@ -2,6 +2,7 @@
 layout: default
 title: "Portfolio"
 ---
+<a name="top"></a>
 # Portfolio
 
 Below you will find samples of my work. All views expressed are my own. Click on linked titles to view or download the full sample.
@@ -43,6 +44,8 @@ As our team's chief technology evangelist of Calm Technology principles from Amb
 * Applied user- and stakeholder-aligned design principles to support long-term value creation
 * Combined ambient design theory with practical UX research methods for product insight
 
+<p style="text-align: right;"><a href="#top">🔝 Back to Top</a></p>
+
 ---
 ## Sustainability Materials for Local Governments 
 <div style="display: flex; gap: 1rem; justify-content: left; flex-wrap: wrap;">
@@ -72,6 +75,8 @@ As our team's chief technology evangelist of Calm Technology principles from Amb
 * Designed clear, structured content with visual aids to enhance comprehension and usability.
 * Applied technical writing best practices to support environmental sustainability efforts.
 
+<p style="text-align: right;"><a href="#top">🔝 Back to Top</a></p>
+
 ---
 ## Generative AI Standards: A Player's Manual
 <img src="thumbnails/Generative AI Player Manual.jpg" alt="Thumbnail for Player's Manual to Generative AI Standards" width="200">
@@ -89,6 +94,8 @@ Please contact me for access.
 * Developed visual aids and workflows to illustrate technical processes and enhance usability.
 * Addressed emerging industry needs by outlining best practices for ethical and practical AI development.
 
+<p style="text-align: right;"><a href="#top">🔝 Back to Top</a></p>
+
 ---
 ## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/df5e4355b89330944d8b549d43eb6c7feeb902b6/PDF%20Downloads/AILA%20Workshop%20Slides.pdf" download>Writing with AI Workshop</a> 
 ![Thumbnail for Sample 2](thumbnails/AILA Workshop.jpg)
@@ -105,6 +112,8 @@ Read about <a href="https://www.liberal-arts.ai/2024-undergraduate-conference/" 
 * Designed and facilitated interactive activities that encouraged critical and creative thinking about AI in writing.  
 * Engaged an interdisciplinary audience in discussions that bridged liberal arts, pedagogy, and artificial intelligence.  
 * Co-created imaginative resources with participants, including data visualizations and collaborative documents, to capture key workshop insights.
+
+<p style="text-align: right;"><a href="#top">🔝 Back to Top</a></p>
 
 ---
 
@@ -124,6 +133,8 @@ Read <a href="https://www.sigcas.org/2023/11/15/computers-and-society-volume-52-
 * Engaged an interdisciplinary audience of computer scientists, ethicists, and policymakers with accessible yet nuanced discussion.  
 * Addressed critical ethical challenges at the intersection of AI, surveillance, and societal diversity, aligning with SIGCAS's mission.
 
+<p style="text-align: right;"><a href="#top">🔝 Back to Top</a></p>
+
 ---
 
 ## <a href="https://www.umass.edu/writing-program/chatgpt" target="_blank" rel="noopener noreferrer">Toolkit for Teaching Writing in the Age of ChatGPT</a> 🌐
@@ -139,6 +150,8 @@ Read <a href="https://www.sigcas.org/2023/11/15/computers-and-society-volume-52-
 * Strategized content for the "Scholarly Roots" section, grounding contemporary teaching practices in foundational research.  
 * Contributed to a resource that aligns theoretical frameworks with practical strategies for writing instruction in the context of AI.  
 * Collaborated with educators and administrators to curate content that addresses diverse teaching needs, resulting in a widely shared resource within the university community.
+
+<p style="text-align: right;"><a href="#top">🔝 Back to Top</a></p>
 
 ---
 
@@ -157,3 +170,5 @@ View <a href="https://scholarworks.umass.edu/entities/publication/ccfd8431-c1bf-
 * Collaborated with interdisciplinary teams to produce a cohesive and impactful publication.  
 * Enhanced the magazine’s digital presence, doubling submissions for the subsequent issue through targeted communications and outreach.  
 * Balanced technical rigor with creative accessibility in both editorial and social media content, ensuring alignment with the magazine's mission.
+
+<p style="text-align: right;"><a href="#top">🔝 Back to Top</a></p>
