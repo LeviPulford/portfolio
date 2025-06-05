@@ -15,7 +15,7 @@ Below you will find samples of my work. All views expressed are my own. Click on
     allowfullscreen>
   </iframe>
 </div>
-*Interactive UI Breakdowns inspired by [Samuel Hulick's UX Teardowns](https://www.useronboard.com/user-onboarding-teardowns/)*
+*Interactive UI breakdowns inspired by [Samuel Hulick's UX Teardowns](https://www.useronboard.com/user-onboarding-teardowns/)*
 
 **Roles:** UX Researcher · Content Strategist · Chief Calm Technology Evangelist · Multimedia Specialist
 
