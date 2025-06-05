@@ -159,7 +159,8 @@ View <a href="https://scholarworks.umass.edu/entities/publication/ccfd8431-c1bf-
 * Enhanced the magazine’s digital presence, doubling submissions for the subsequent issue through targeted communications and outreach.  
 * Balanced technical rigor with creative accessibility in both editorial and social media content, ensuring alignment with the magazine's mission.
 
-<a href="#top" style="
+<a href="#top" id="backToTop" style="
+  display: none;
   position: fixed;
   bottom: 2rem;
   right: 2rem;
@@ -170,7 +171,20 @@ View <a href="https://scholarworks.umass.edu/entities/publication/ccfd8431-c1bf-
   font-size: 0.9rem;
   text-decoration: none;
   box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-  z-index: 1000;">
+  z-index: 1000;
+  color: #333;">
   🔝 Back to Top
 </a>
+
+<script>
+  // Show/hide the Back to Top button based on scroll position
+  window.onscroll = function() {
+    const btn = document.getElementById("backToTop");
+    if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+      btn.style.display = "block";
+    } else {
+      btn.style.display = "none";
+    }
+  };
+</script>
 
