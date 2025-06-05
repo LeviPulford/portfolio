@@ -10,8 +10,8 @@ Below is an overview of my education, experience, and skills.
 
 ## Education
 **Certificate in Professional Technical Writing** — *University of Washington*  
-Graduation: April 2025 <br>
-Relevant coursework: Foundations of Technical Communication
+Graduation: June 2025 <br>
+Relevant coursework: Foundations of Technical Communication, Intermediate Technical Communication, Advanced Technical Communication
 
 **M.F.A. in Creative Writing** — *University of Massachusetts Amherst*  
 Relevant coursework: Composition Theory, Research Methods, Literacy Studies
@@ -45,6 +45,7 @@ software engineers on the frontlines of generative AI.
 ### Markup and Programming Languages
 - Markdown
 - HTML/CSS
+- XML
 - JSON
 - R
 
@@ -52,6 +53,8 @@ software engineers on the frontlines of generative AI.
 - Microsoft Word
 - Google Docs
 - Adobe InDesign
+- Figma
+- Canva
 - GitHub
 - WordPress
 - Obsidian
