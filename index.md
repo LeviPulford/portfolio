@@ -166,7 +166,7 @@ Read <a href="https://www.sigcas.org/2023/11/15/computers-and-society-volume-52-
 
 ---
 
-## <a href="https://www.umass.edu/writing-program/chatgpt" target="_blank" rel="noopener noreferrer">Toolkit for Teaching Writing in the Age of ChatGPT</a> 🌐
+## <a href="https://www.umass.edu/writing-program/chatgpt" target="_blank" rel="noopener noreferrer">Toolkit for Teaching Writing in the Age of ChatGPT</a> 
 ![Thumbnail for Sample 4](thumbnails/Teaching Writing Screenshot.jpg)
 
 **Role:** Graduate Assistant Director for Teacher Training  
