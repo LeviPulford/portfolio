@@ -46,7 +46,7 @@ Below you will find samples of my work. All views expressed are my own. Click on
   #progressBar {
     height: 100%;
     width: 0%;
-    background-color: #007acc; /* You can change this color */
+    background-color: #0056B3; /* Site accent color */
     transition: width 0.25s ease-out;
   }
 
