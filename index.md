@@ -21,7 +21,7 @@ Below you will find samples of my work. All views expressed are my own. Click on
 
 **Description:** As part of the capstone project for the University of Washington’s Certificate in Professional Technical Writing, I collaborated on a comparative usability study of two popular note-taking applications, Notion and Obsidian. Our team of five UX researchers evaluated onboarding workflows, user satisfaction, and interface design, grounding recommendations in data analysis. I contributed across UX, content, and visual strategy roles by conducting secondary research drawing from Nielsen Norman Group to inform content strategy; developing user and product manager personas to align usability with business impact; translating research insights into actionable recommendations; and producing interactive UI breakdowns, attention graphs, and visual workflows to clarify user journeys and interface demands.
 
-Notably, I served as the chief technology evangelist of Calm Technology principles from Amber Case to advocate for low-friction, ambient user experiences. Simultaneously informed by Alexandra Mack’s *Talking to Stakeholders*, I practiced risk framing and strategic listening to ensure recommendations aligned with organizational priorities as well as user needs.
+I served as the chief technology evangelist of Calm Technology principles from Amber Case to advocate for low-friction, ambient user experiences. Simultaneously informed by Alexandra Mack’s *Talking to Stakeholders*, I practiced risk framing and strategic listening to ensure recommendations aligned with organizational priorities as well as user needs.
 
 **Tools:** Figma, Canva, Google Drive, Google Forms, Apple Screen Recording
 
