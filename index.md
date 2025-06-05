@@ -7,7 +7,7 @@ title: "Portfolio"
 Below you will find samples of my work. All views expressed are my own. Click on linked titles to view or download the full sample.
 
 ---
-## <a href="https://aokoye.github.io/ptw330-usabilityreport/" target="_blank" rel="noopener noreferrer">Note-Taking App Usability Report: Notion & Obsidian</a>
+## <a href="https://aokoye.github.io/ptw330-usabilityreport/" target="_blank" rel="noopener noreferrer">Note-Taking App Usability Report: Notion & Obsidian</a> 🌐
 <div style="max-width: 1000px; margin: 0 auto; padding: 1rem;">
   <iframe
     style="width: 100%; height: 335px; border: none;"
@@ -31,7 +31,7 @@ As our team's chief technology evangelist of Calm Technology principles from Amb
 * Combined ambient design theory with practical UX research methods for product insight
 
 ---
-## Sustainability Materials for Local Governments
+## Sustainability Materials for Local Governments 📄
 <div style="display: flex; gap: 1rem; justify-content: left; flex-wrap: wrap;">
   <img src="thumbnails/recyclingaid.jpg" alt="Thumbnail for Recycling Aid" height="250">
   <img src="thumbnails/proposal.jpg" alt="Thumbnail for Proposal" height="250">
@@ -77,7 +77,7 @@ Please contact me for access.
 * Addressed emerging industry needs by outlining best practices for ethical and practical AI development.
 
 ---
-## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/df5e4355b89330944d8b549d43eb6c7feeb902b6/PDF%20Downloads/AILA%20Workshop%20Slides.pdf" download>Writing with AI Workshop</a>
+## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/df5e4355b89330944d8b549d43eb6c7feeb902b6/PDF%20Downloads/AILA%20Workshop%20Slides.pdf" download>Writing with AI Workshop</a> 📄
 ![Thumbnail for Sample 2](thumbnails/AILA Workshop.jpg)
 
 Read about <a href="https://www.liberal-arts.ai/2024-undergraduate-conference/" target="_blank" rel="noopener noreferrer">the 2024 AILA conference</a>.
@@ -95,7 +95,7 @@ Read about <a href="https://www.liberal-arts.ai/2024-undergraduate-conference/" 
 
 ---
 
-## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/e786dec709fa7b1fa50092664624f2a00cb454f6/PDF%20Downloads/Levi's%20Op-Ed.pdf" download>Op-Ed on AI Ethics for *Computers and Society*</a>  
+## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/e786dec709fa7b1fa50092664624f2a00cb454f6/PDF%20Downloads/Levi's%20Op-Ed.pdf" download>Op-Ed on AI Ethics for *Computers and Society*</a> 🌐
 ![Thumbnail for Sample 3](thumbnails/SIGCAS Screenshot.jpg) 
 
 Read <a href="https://www.sigcas.org/2023/11/15/computers-and-society-volume-52-number-2-november-2023-issue-now-available/" target="_blank" rel="noopener noreferrer">the full issue</a>.
@@ -113,7 +113,7 @@ Read <a href="https://www.sigcas.org/2023/11/15/computers-and-society-volume-52-
 
 ---
 
-## <a href="https://www.umass.edu/writing-program/chatgpt" target="_blank" rel="noopener noreferrer">Toolkit for Teaching Writing in the Age of ChatGPT</a> 
+## <a href="https://www.umass.edu/writing-program/chatgpt" target="_blank" rel="noopener noreferrer">Toolkit for Teaching Writing in the Age of ChatGPT</a> 🌐
 ![Thumbnail for Sample 4](thumbnails/Teaching Writing Screenshot.jpg)
 
 **Role:** Graduate Assistant Director for Teacher Training  
@@ -129,7 +129,7 @@ Read <a href="https://www.sigcas.org/2023/11/15/computers-and-society-volume-52-
 
 ---
 
-## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/76cd443821e4ff1f7da2349d50ca79ab2bc9779b/PDF%20Downloads/Paperbark%20Issue03-compressed.pdf" download>Paperbark Magazine Issue 03</a> 
+## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/76cd443821e4ff1f7da2349d50ca79ab2bc9779b/PDF%20Downloads/Paperbark%20Issue03-compressed.pdf" download>Paperbark Magazine Issue 03</a> 📄
 <img src="thumbnails/Paperbark03cover.jpg" alt="Thumbnail for Issue 03 of Paperbark Magazine" width="200">
 
 View <a href="https://scholarworks.umass.edu/entities/publication/ccfd8431-c1bf-4636-b18e-3234c135ccc0" target="_blank" rel="noopener noreferrer">a high-resolution copy</a>.
