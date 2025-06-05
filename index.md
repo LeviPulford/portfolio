@@ -220,18 +220,16 @@ View <a href="https://scholarworks.umass.edu/entities/publication/ccfd8431-c1bf-
   }
 </style>
 <script>
-  window.onscroll = function() {
+  window.onscroll = function () {
+    // Back to Top button
     const btn = document.getElementById("backToTop");
     if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
       btn.style.display = "block";
     } else {
       btn.style.display = "none";
     }
-  };
-</script>
 
-<script>
-  window.onscroll = function () {
+    // Scroll progress bar
     const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
     const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
     const scrolled = (scrollTop / scrollHeight) * 100;
