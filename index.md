@@ -1,3 +1,6 @@
+<div id="progressBarContainer">
+  <div id="progressBar"></div>
+</div>
 ---
 layout: default
 title: "Portfolio"
@@ -27,6 +30,30 @@ Below you will find samples of my work. All views expressed are my own. Click on
     <li><a href="#paperbark-magazine-issue-03">🌳 Paperbark Magazine Issue 03</a></li>
   </ul>
 </div>
+
+<style>
+  #progressBarContainer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 5px;
+    background-color: #f0f0f0;
+    z-index: 9999;
+  }
+
+  #progressBar {
+    height: 100%;
+    width: 0%;
+    background-color: #007acc; /* You can change this color */
+    transition: width 0.25s ease-out;
+  }
+
+  /* Optional: push content down so it's not hidden under the bar */
+  body {
+    padding-top: 5px;
+  }
+</style>
 
 ---
 ## <a href="https://aokoye.github.io/ptw330-usabilityreport/" target="_blank" rel="noopener noreferrer">Note-Taking App Usability Report: Notion & Obsidian</a> 
@@ -199,5 +226,14 @@ View <a href="https://scholarworks.umass.edu/entities/publication/ccfd8431-c1bf-
     } else {
       btn.style.display = "none";
     }
+  };
+</script>
+
+<script>
+  window.onscroll = function () {
+    const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+    const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    const scrolled = (scrollTop / scrollHeight) * 100;
+    document.getElementById("progressBar").style.width = scrolled + "%";
   };
 </script>
