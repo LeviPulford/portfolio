@@ -85,10 +85,10 @@ As our team's chief technology evangelist of Calm Technology principles from Amb
 
 ---
 ## Sustainability Materials for Local Governments 
-<div style="display: flex; gap: 1rem; justify-content: left; flex-wrap: wrap;">
-  <img src="thumbnails/recyclingaid.jpg" alt="Thumbnail for Recycling Aid" height="250">
-  <img src="thumbnails/proposal.jpg" alt="Thumbnail for Proposal" height="250">
-  <img src="thumbnails/factsheet.jpg" alt="Thumbnail for Fact Sheets" height="250">
+<div style="display: flex; gap: 1rem; justify-content: space-between; flex-wrap: nowrap; overflow-x: auto;">
+  <img src="thumbnails/recyclingaid.jpg" alt="Thumbnail for Recycling Aid" style="max-height: 250px; height: auto; width: 100%; max-width: 200px; flex-shrink: 1;">
+  <img src="thumbnails/proposal.jpg" alt="Thumbnail for Proposal" style="max-height: 250px; height: auto; width: 100%; max-width: 200px; flex-shrink: 1;">
+  <img src="thumbnails/factsheet.jpg" alt="Thumbnail for Fact Sheets" style="max-height: 250px; height: auto; width: 100%; max-width: 200px; flex-shrink: 1;">
 </div>
 *Recycling Aid, Proposal, and Fact Sheet*
 
