@@ -114,7 +114,7 @@ As our team's chief technology evangelist of Calm Technology principles from Amb
 
 ---
 ## Generative AI Standards: A Player's Manual
-<img src="thumbnails/Generative AI Player Manual.jpg" alt="Thumbnail for Player's Manual to Generative AI Standards" width="200">
+<img src="thumbnails/Generative AI Player Manual.jpg" alt="Thumbnail for Player's Manual to Generative AI Standards" style="width: 100%; max-width: 320px; height: auto;">
 
 Please contact me for access.
 
