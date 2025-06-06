@@ -183,7 +183,8 @@ Read <a href="https://www.sigcas.org/2023/11/15/computers-and-society-volume-52-
 ---
 
 ## <a href="https://raw.githubusercontent.com/LeviPulford/portfolio/76cd443821e4ff1f7da2349d50ca79ab2bc9779b/PDF%20Downloads/Paperbark%20Issue03-compressed.pdf" download>Paperbark Magazine Issue 03</a> 
-<img src="thumbnails/Paperbark03cover.jpg" alt="Thumbnail for Issue 03 of Paperbark Magazine" width="200">
+<img src="thumbnails/Paperbark03cover.jpg" alt="Thumbnail for Issue 03 of Paperbark Magazine"
+     style="width: 100%; max-width: 320px; height: auto;">
 
 View <a href="https://scholarworks.umass.edu/entities/publication/ccfd8431-c1bf-4636-b18e-3234c135ccc0" target="_blank" rel="noopener noreferrer">a high-resolution copy</a>.
 
