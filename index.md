@@ -94,16 +94,16 @@ As our team's chief technology evangelist of Calm Technology principles from Amb
 
 **Roles:** Writer · Editor · Production Specialist
 
-**Description:** As part of a collaborative project in the University of Washington technical writing certificate program, I worked with two fellow cohort members to develop instructional, persuasive, and informative materials on environmental technology and sustainability. Our work supported local government initiatives in Norfolk, VA; Redlands, CA; and Morrisville, NC, with a focus on improving public engagement and accessibility of information. Each document was designed for clarity, usability, and effectiveness in addressing community needs.
+**Description:** As part of a collaborative project in the University of Washington technical writing certificate program, I worked with two fellow cohort members to develop instructional, persuasive, and informative materials on environmental technology and sustainability. Our work was designed to support local government initiatives in Norfolk, VA; Redlands, CA; and Morrisville, NC, with a focus on improving public engagement and accessibility of information.
 
-* <a href="PDF%20Downloads/Norfolk%20VA%20Aid.pdf" download>📄 Download Recycling Aid for Norfolk, VA</a><br>
+* <a href="PDF%20Downloads/Norfolk%20VA%20Aid.pdf" download>📄 Recycling Aid for Norfolk, VA</a><br>
   An infographic helping residents properly sort recyclables to reduce contamination and improve waste management efficiency.
 
-* <a href="PDF%20Downloads/Redlands%20CA%20Proposal.pdf" download>📄 Download Solar Panel Installation Proposal for Redlands, CA</a><br>
+* <a href="PDF%20Downloads/Redlands%20CA%20Proposal.pdf" download>📄 Solar Panel Installation Proposal for Redlands, CA</a><br>
   A formal proposal advocating for municipal solar energy adoption.
 
-* <a href="PDF%20Downloads/Morrisville%20NC%20Fact%20Sheets.pdf" download>📄 Download Indoor Air Quality Fact Sheets for Morrisville, NC</a><br>
-  A set of concise fact sheets detailing pollutant sources, air quality monitoring metrics, and mitigation techniques.
+* <a href="PDF%20Downloads/Morrisville%20NC%20Fact%20Sheets.pdf" download>📄 Indoor Air Quality Fact Sheets for Morrisville, NC</a><br>
+  A set of fact sheets detailing pollutant sources, air quality monitoring metrics, and mitigation techniques.
 
 **Tools:** Microsoft Word, Adobe InDesign
 
