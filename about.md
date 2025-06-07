@@ -5,10 +5,13 @@ title: About Me
 
 # About
 
-I am a data-driven technical communicator who views writing as a technology and technology as applied philosophy. Working with AI means working with a new technology of the written word, which in turn involves thinking critically about our world. As technologies become more general-purpose, users will need more generalizable sets of skills and knowledge to use them effectively. 
+![Childhood photo of Levi standing in front of a Lego robot exhibit](thumbnails/Levi-LegoRobot.png)
+*(Yes, I've been into tech for a while.)*
 
-I have experience developing educational materials and job aids tailored for computer science majors, data annotators, and AI developers. I am interested in creating accessible and engaging documentation for technical audiences, and I also enjoy crafting instructional content and interactive documentation that empowers end users. My workflow often involves combining structured writing with visual elements to facilitate knowledge transfer across domains.
+I’m a data-driven technical communicator who sees writing as a form of technology—and technology as applied philosophy. That perspective has carried me from the museum floor, where I first posed next to a Lego robot, to the frontlines of AI development, where I now train large language models at Innodata. My background blends technical communication, creative writing, and literary criticism, allowing me to approach emerging technologies with both critical insight and creative range.
 
-Driven by curiosity, I am especially excited about projects that explore the intersection of technology, creativity, and systems thinking. I aim to contribute to projects that not only communicate technical details but also bridge the gap between theory and practice. 
+Before working in industry, I spent over five years teaching writing in higher education, where I developed and led units on AI ethics and data storytelling in the Manning College of Information and Computer Sciences. As a teacher trainer, I also created a toolkit for teaching writing in the age of ChatGPT, helping instructors adapt pedagogy to generative technologies. This work culminated in presentations and publications on AI and writing, including for the ACM Computers and Society newsletter and the 2024 AI in the Liberal Arts conference at Amherst College.
 
-If you're looking for someone who combines attention to detail with a strategic approach to content creation, feel free to reach out. Great ideas emerge from strong collaboration!
+My portfolio includes educational materials, job aids, usability reports, and documentation created for audiences ranging from AI developers and data annotators to computer science majors and municipal stakeholders. I specialize in creating accessible, user-focused content that bridges technical precision with strategic communication. My workflow often combines structured writing with multimedia and systems thinking to support knowledge transfer across disciplines.
+
+Whether designing for a town’s waste stream or a person’s mental workspace, I aim to make complex systems more legible, humane, and sustainable. My work is grounded in care—for users, for ecosystems, and for the technologies that shape how we live and learn.
