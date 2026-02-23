@@ -3,6 +3,8 @@ layout: default
 title: "Portfolio"
 section: portfolio
 ---
+# Portfolio
+
 {% assign samples = site.samples %}
 {% if samples == nil %}
 {% assign samples = "" | split: "" %}

@@ -2,6 +2,7 @@
 layout: default
 title: About Me
 ---
+# About
 
 ![Childhood photo of Levi standing in front of a Lego robot exhibit](thumbnails/Levi-LegoRobot.png)
 *(Yes, I've been into tech for a while.)*

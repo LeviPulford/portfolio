@@ -2,6 +2,8 @@
 layout: default
 title: "Resume"
 ---
+# Resume
+
 
 Below is an overview of my education, experience, and skills.
 
