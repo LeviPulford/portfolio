@@ -1,11 +1,11 @@
 ---
 layout: default
 title: About Me
+sidebar_image: "/thumbnails/Levi-LegoRobot.png"
+sidebar_image_alt: "Childhood photo of Levi standing in front of a Lego robot exhibit"
+sidebar_image_caption: "Yes, I've been into tech for a while."
 ---
 # About
-
-![Childhood photo of Levi standing in front of a Lego robot exhibit](thumbnails/Levi-LegoRobot.png)
-*(Yes, I've been into tech for a while.)*
 
 I’m a data-driven technical communicator who sees writing as a form of technology—and technology as applied philosophy. That perspective has carried me from the museum floor, where I first posed next to a Lego robot, to the frontlines of AI development, where I now train large language models at Innodata. My background blends technical communication, creative writing, and literary criticism, allowing me to approach emerging technologies with both critical insight and creative range.
 
