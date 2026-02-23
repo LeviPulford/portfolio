@@ -11,8 +11,6 @@ thumbnail: "/thumbnails/Paperbark03cover.jpg"
 thumbnail_alt: "Cover image for Paperbark Magazine Issue 03"
 roles: "Editorial Assistant · Social Media Lead"
 tools: "Submittable, Microsoft Word, Adobe InDesign, Instagram, Twitter"
-external_url: "https://scholarworks.umass.edu/entities/publication/ccfd8431-c1bf-4636-b18e-3234c135ccc0"
-external_label: "View high-resolution copy"
 download_url: "/PDF%20Downloads/Paperbark%20Issue03-compressed.pdf"
 download_label: "Download PDF"
 ---
