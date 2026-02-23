@@ -1,6 +1,11 @@
 ---
 layout: default
 title: "Resume"
+sidebar_image: "/thumbnails/Levi_Pulford_Resume_Portfolio.png"
+sidebar_image_alt: "Thumbnail preview of Levi Pulford's full resume and portfolio PDF"
+sidebar_image_caption: "Full resume and portfolio PDF."
+sidebar_download_url: "/PDF%20Downloads/Levi_Pulford_Resume_Portfolio.pdf"
+sidebar_download_label: "Download PDF"
 ---
 # Resume
 
