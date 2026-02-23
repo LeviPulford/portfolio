@@ -185,6 +185,28 @@ iframe {
   font-weight: 600;
 }
 
+.sidebar-feature {
+  margin: 0.95rem 0 0;
+  padding-top: 0.95rem;
+  border-top: 1px solid var(--border);
+}
+
+.sidebar-feature img {
+  display: block;
+  width: 100%;
+  border-radius: 14px;
+  border: 1px solid #dbe4ed;
+  background: #fff;
+}
+
+.sidebar-feature figcaption {
+  margin-top: 0.5rem;
+  color: var(--muted);
+  font-size: 0.86rem;
+  font-style: italic;
+  line-height: 1.35;
+}
+
 .site-main {
   min-width: 0;
   background: rgba(255, 255, 255, 0.82);
