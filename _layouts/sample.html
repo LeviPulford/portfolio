@@ -23,47 +23,9 @@ layout: default
 {% endif %}
 
 <article class="sample-page">
-  <header class="sample-page__header">
-    {% if page.order %}
-    <p class="sample-page__eyebrow">Portfolio Sample {{ page.order }}</p>
-    {% endif %}
+  <div class="sample-page__header">
     <h1>{{ page.title }}</h1>
-    {% if page.summary %}
-    <p class="sample-page__lede">{{ page.summary }}</p>
-    {% endif %}
-
-    {% if page.external_url or page.download_url %}
-    <div class="sample-page__actions">
-      {% if page.external_url %}
-      <a class="button" href="{{ page.external_url }}" target="_blank" rel="noopener noreferrer">
-        {{ page.external_label | default: "Open project" }}
-      </a>
-      {% endif %}
-      {% if page.download_url %}
-      <a class="button button--ghost" href="{{ page.download_url | relative_url }}" download>
-        {{ page.download_label | default: "Download PDF" }}
-      </a>
-      {% endif %}
-    </div>
-    {% endif %}
-
-    {% if page.roles or page.tools %}
-    <dl class="sample-meta">
-      {% if page.roles %}
-      <div>
-        <dt>Roles</dt>
-        <dd>{{ page.roles }}</dd>
-      </div>
-      {% endif %}
-      {% if page.tools %}
-      <div>
-        <dt>Tools</dt>
-        <dd>{{ page.tools }}</dd>
-      </div>
-      {% endif %}
-    </dl>
-    {% endif %}
-  </header>
+  </div>
 
   {% if page.hero_type == "embed" and page.embed_url %}
   <figure class="sample-hero">
@@ -98,7 +60,42 @@ layout: default
   </figure>
   {% endif %}
 
+  {% if page.external_url or page.download_url %}
+  <div class="sample-page__actions">
+    {% if page.external_url %}
+    <a class="button" href="{{ page.external_url }}" target="_blank" rel="noopener noreferrer">
+      {{ page.external_label | default: "Open project" }}
+    </a>
+    {% endif %}
+    {% if page.download_url %}
+    <a class="button button--ghost" href="{{ page.download_url | relative_url }}" download>
+      {{ page.download_label | default: "Download PDF" }}
+    </a>
+    {% endif %}
+  </div>
+  {% endif %}
+
+  {% if page.roles or page.tools %}
+  <dl class="sample-meta">
+    {% if page.roles %}
+    <div>
+      <dt>Roles</dt>
+      <dd>{{ page.roles }}</dd>
+    </div>
+    {% endif %}
+    {% if page.tools %}
+    <div>
+      <dt>Tools</dt>
+      <dd>{{ page.tools }}</dd>
+    </div>
+    {% endif %}
+  </dl>
+  {% endif %}
+
   <div class="sample-page__content">
+    {% if page.summary %}
+    <p class="sample-page__lede">{{ page.summary }}</p>
+    {% endif %}
     {{ content }}
   </div>
 
