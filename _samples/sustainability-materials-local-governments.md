@@ -41,4 +41,3 @@ As part of a collaborative project in the University of Washington technical wri
 - Co-authored a series of technical documents tailored to public audiences and local government stakeholders.
 - Designed clear, structured content with visual aids to enhance comprehension and usability.
 - Applied technical writing best practices to support environmental sustainability efforts.
-

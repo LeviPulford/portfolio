@@ -1,6 +1,6 @@
 ---
 title: "Installation Guide Concept for Cambridge Mobile Telematics"
-nav_title: "Installation Guide (CMT)"
+nav_title: "Installation Guide"
 slug: installation-guide-cambridge-mobile-telematics
 order: 1
 summary: >
@@ -35,4 +35,3 @@ Based on that research, I produced a first draft as a static PDF centered on tas
 - Added micro-troubleshooting paths tied to common setup failures (permissions, pairing delays, placement/connection issues).
 - Designed for accessibility and localization with user-controlled reading modes and language toggles.
 - Used SME consultation to validate workflow assumptions and prioritize the highest-impact support content.
-

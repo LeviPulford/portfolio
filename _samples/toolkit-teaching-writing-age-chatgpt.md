@@ -1,6 +1,7 @@
 ---
 title: "Toolkit for Teaching Writing in the Age of ChatGPT"
-nav_title: "Teaching Writing Toolkit"
+card_title: "AI-Aware Teaching Toolkit for UMass Amherst"
+nav_title: "AI-Aware Teaching Toolkit"
 slug: toolkit-teaching-writing-age-chatgpt
 order: 7
 summary: >
@@ -27,4 +28,3 @@ The webpage continues to serve instructors across first-year writing, junior-yea
 - Strategized content for the Scholarly Roots section, grounding contemporary teaching practices in foundational research.
 - Contributed to a resource that aligns theoretical frameworks with practical strategies for writing instruction in the context of AI.
 - Collaborated with educators and administrators to curate content for diverse teaching needs, resulting in a widely shared university resource.
-

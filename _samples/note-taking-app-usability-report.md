@@ -1,6 +1,7 @@
 ---
 title: "Note-Taking App Usability Report"
-nav_title: "Note-Taking App Usability Report"
+card_title: "Usability Report on Notion & Obsidian"
+nav_title: "Usability Report"
 slug: note-taking-app-usability-report
 order: 2
 summary: >

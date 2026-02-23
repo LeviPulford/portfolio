@@ -1,5 +1,6 @@
 ---
 title: "Writing with AI Workshop"
+card_title: "Writing with AI Workshop at Amherst College"
 nav_title: "Writing with AI Workshop"
 slug: writing-with-ai-workshop
 order: 5
@@ -29,4 +30,3 @@ The workshop also highlighted interdisciplinary insights into how AI reshapes wr
 - Designed and facilitated interactive activities that encouraged critical and creative thinking about AI in writing.
 - Engaged an interdisciplinary audience in discussions that bridged liberal arts, pedagogy, and artificial intelligence.
 - Co-created imaginative resources with participants, including data visualizations and collaborative documents, to capture workshop insights.
-

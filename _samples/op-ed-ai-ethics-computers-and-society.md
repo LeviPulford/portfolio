@@ -1,5 +1,6 @@
 ---
 title: "Op-Ed on AI Ethics for Computers and Society"
+card_title: "AI Ethics Op-Ed for Computers and Society"
 nav_title: "AI Ethics Op-Ed"
 slug: op-ed-ai-ethics-computers-and-society
 order: 6
@@ -27,4 +28,3 @@ This work reflects SIGCAS's mission to raise awareness about the societal impact
 - Solicited to write an op-ed for a respected ACM publication, demonstrating recognition of my expertise in AI ethics and communication.
 - Engaged an interdisciplinary audience of computer scientists, ethicists, and policymakers with accessible yet nuanced discussion.
 - Addressed critical ethical challenges at the intersection of AI, surveillance, and social diversity, aligning with SIGCAS's mission.
-

@@ -1,6 +1,6 @@
 ---
 title: "Paperbark Magazine Issue 03"
-nav_title: "Paperbark Magazine Issue 03"
+nav_title: "Paperbark Magazine"
 slug: paperbark-magazine-issue-03
 order: 8
 summary: >
@@ -27,4 +27,3 @@ In this role, I collaborated with writers, editors, graphic designers, and scien
 - Collaborated with interdisciplinary teams to produce a cohesive and impactful publication.
 - Enhanced the magazine's digital presence, doubling submissions for the subsequent issue through targeted communications and outreach.
 - Balanced technical rigor with creative accessibility in editorial and social media content, ensuring alignment with the magazine's mission.
-

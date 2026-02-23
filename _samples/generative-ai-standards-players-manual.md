@@ -1,6 +1,7 @@
 ---
 title: "Generative AI Standards: A Player's Manual"
-nav_title: "Generative AI Standards Manual"
+card_title: "ConOps for Generative AI Development"
+nav_title: "Generative AI CONOPS"
 slug: generative-ai-standards-players-manual
 order: 4
 summary: >
@@ -27,4 +28,3 @@ Additionally, this ConOps applies two forms of reasoning, first-principles reaso
 - Authored a detailed guide that synthesizes complex concepts into accessible and actionable content.
 - Developed visual aids and workflows to illustrate technical processes and enhance usability.
 - Addressed emerging industry needs by outlining best practices for ethical and practical AI development.
-
