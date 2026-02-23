@@ -13,8 +13,9 @@ section: portfolio
 
 <div class="portfolio-grid">
   {% for sample in samples %}
+  {% assign card_title = sample.card_title | default: sample.title %}
   <article class="portfolio-card">
-    <a class="portfolio-card__media" href="{{ sample.url | relative_url }}" aria-label="View {{ sample.title }}">
+    <a class="portfolio-card__media" href="{{ sample.url | relative_url }}" aria-label="View {{ card_title }}">
       {% if sample.thumbnail %}
       <img src="{{ sample.thumbnail | relative_url }}" alt="{{ sample.thumbnail_alt | default: sample.title }}">
       {% else %}
@@ -24,7 +25,7 @@ section: portfolio
 
     <div class="portfolio-card__body">
       <h2 class="portfolio-card__title">
-        <a href="{{ sample.url | relative_url }}">{{ sample.title }}</a>
+        <a href="{{ sample.url | relative_url }}">{{ card_title }}</a>
       </h2>
 
       {% if sample.summary %}
