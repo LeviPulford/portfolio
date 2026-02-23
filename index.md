@@ -37,9 +37,6 @@ section: portfolio
 
       <div class="portfolio-card__actions">
         <a class="button" href="{{ sample.url | relative_url }}">View project</a>
-        {% if sample.external_url %}
-        <a class="button button--ghost" href="{{ sample.external_url }}" target="_blank" rel="noopener noreferrer">Open external</a>
-        {% endif %}
       </div>
     </div>
   </article>
