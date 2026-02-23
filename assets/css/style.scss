@@ -573,6 +573,34 @@ iframe {
   margin-top: 0;
 }
 
+.deliverable-list {
+  display: grid;
+  gap: 0.85rem;
+  margin: 0.6rem 0 0.3rem;
+}
+
+.deliverable-item {
+  border: 1px solid #dbe4ed;
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 0.85rem 0.95rem 0.9rem;
+}
+
+.deliverable-item h3 {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.25;
+}
+
+.deliverable-item p {
+  margin: 0.45rem 0 0;
+  color: #2b3543;
+}
+
+.deliverable-item__actions {
+  margin-top: 0.7rem;
+}
+
 .sample-pagination {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
