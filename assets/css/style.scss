@@ -92,9 +92,9 @@ iframe {
 }
 
 .global-nav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.45rem;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.35rem;
   padding: 0.8rem 0 0.95rem;
   margin-bottom: 1rem;
   border-top: 1px solid var(--border);
@@ -104,12 +104,14 @@ iframe {
 .global-nav a {
   color: var(--ink);
   text-decoration: none;
-  font-size: 0.88rem;
+  font-size: 0.82rem;
   line-height: 1;
-  padding: 0.35rem 0.6rem;
+  padding: 0.35rem 0.25rem;
   border-radius: 999px;
   border: 1px solid transparent;
   background: transparent;
+  text-align: center;
+  white-space: nowrap;
 }
 
 .global-nav a:hover {
