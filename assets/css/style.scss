@@ -207,6 +207,14 @@ iframe {
   line-height: 1.35;
 }
 
+.sidebar-feature__actions {
+  margin-top: 0.65rem;
+}
+
+.sidebar-feature__actions .button {
+  width: 100%;
+}
+
 .site-main {
   min-width: 0;
   background: rgba(255, 255, 255, 0.82);
