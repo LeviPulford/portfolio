@@ -14,7 +14,7 @@ tools: "Microsoft Word"
 external_url: "https://www.sigcas.org/2023/11/15/computers-and-society-volume-52-number-2-november-2023-issue-now-available/"
 external_label: "Read issue announcement"
 download_url: "/PDF%20Downloads/Levi's%20Op-Ed.pdf"
-download_label: "Download op-ed PDF"
+download_label: "Download PDF"
 ---
 
 ## Description

@@ -16,7 +16,7 @@ tools: "Figma, Canva, Google Drive, Google Forms, Apple Screen Recording"
 external_url: "https://aokoye.github.io/ptw330-usabilityreport/"
 external_label: "Open usability report"
 download_url: "/PDF%20Downloads/Team%20ESC%20Supplemental%20Materials.pdf"
-download_label: "Download supplemental materials"
+download_label: "Download PDF"
 card_label: "UX Report"
 ---
 

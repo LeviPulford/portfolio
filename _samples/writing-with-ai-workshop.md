@@ -14,7 +14,7 @@ tools: "Google Slides, ChatGPT, Poll Everywhere"
 external_url: "https://www.liberal-arts.ai/2024-undergraduate-conference/"
 external_label: "Read about the AILA conference"
 download_url: "/PDF%20Downloads/AILA%20Workshop%20Slides.pdf"
-download_label: "Download workshop slides"
+download_label: "Download PDF"
 ---
 
 ## Description
