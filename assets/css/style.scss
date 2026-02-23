@@ -304,8 +304,8 @@ iframe {
 .site-main a.button[download]::before {
   content: "";
   display: block;
-  width: 0.95em;
-  height: 0.95em;
+  width: 1.08em;
+  height: 1.08em;
   flex: 0 0 auto;
   background-color: currentColor;
   -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='black' d='M11 3h2v7.17l2.59-2.58L17 9l-5 5-5-5 1.41-1.41L11 10.17V3zm-6 12h2v4h10v-4h2v6H5v-6z'/%3E%3C/svg%3E") center / contain no-repeat;
