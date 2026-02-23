@@ -278,6 +278,12 @@ iframe {
   color: var(--accent-strong);
 }
 
+.button[download]::before,
+.site-main a.button[download]::before {
+  content: "\2193";
+  line-height: 1;
+}
+
 .portfolio-intro {
   margin: 0 0 1.25rem;
   padding: 1rem 1.05rem;
