@@ -1,5 +1,6 @@
 ---
 title: "Paperbark Magazine Issue 03"
+card_title: "Issue 03 of Paperbark Magazine"
 nav_title: "Paperbark Magazine"
 slug: paperbark-magazine-issue-03
 order: 8
