@@ -1,0 +1,122 @@
+---
+layout: default
+---
+{% assign sorted_samples = site.samples | sort: "order" %}
+{% assign current_index = nil %}
+{% for sample in sorted_samples %}
+  {% if sample.url == page.url %}
+    {% assign current_index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% if current_index != nil %}
+  {% assign prev_index = current_index | minus: 1 %}
+  {% assign next_index = current_index | plus: 1 %}
+  {% if prev_index >= 0 %}
+    {% assign prev_sample = sorted_samples[prev_index] %}
+  {% endif %}
+  {% assign next_sample = sorted_samples[next_index] %}
+{% endif %}
+
+<article class="sample-page">
+  <header class="sample-page__header">
+    {% if page.order %}
+    <p class="sample-page__eyebrow">Portfolio Sample {{ page.order }}</p>
+    {% endif %}
+    <h1>{{ page.title }}</h1>
+    {% if page.summary %}
+    <p class="sample-page__lede">{{ page.summary }}</p>
+    {% endif %}
+
+    {% if page.external_url or page.download_url %}
+    <div class="sample-page__actions">
+      {% if page.external_url %}
+      <a class="button" href="{{ page.external_url }}" target="_blank" rel="noopener noreferrer">
+        {{ page.external_label | default: "Open project" }}
+      </a>
+      {% endif %}
+      {% if page.download_url %}
+      <a class="button button--ghost" href="{{ page.download_url | relative_url }}" download>
+        {{ page.download_label | default: "Download PDF" }}
+      </a>
+      {% endif %}
+    </div>
+    {% endif %}
+
+    {% if page.roles or page.tools %}
+    <dl class="sample-meta">
+      {% if page.roles %}
+      <div>
+        <dt>Roles</dt>
+        <dd>{{ page.roles }}</dd>
+      </div>
+      {% endif %}
+      {% if page.tools %}
+      <div>
+        <dt>Tools</dt>
+        <dd>{{ page.tools }}</dd>
+      </div>
+      {% endif %}
+    </dl>
+    {% endif %}
+  </header>
+
+  {% if page.hero_type == "embed" and page.embed_url %}
+  <figure class="sample-hero">
+    <div class="sample-hero__embed">
+      <iframe
+        src="{{ page.embed_url }}"
+        title="{{ page.embed_title | default: page.title }}"
+        allowfullscreen>
+      </iframe>
+    </div>
+    {% if page.hero_caption %}
+    <figcaption>{{ page.hero_caption }}</figcaption>
+    {% endif %}
+  </figure>
+  {% elsif page.hero_type == "gallery" and page.gallery_images %}
+  <figure class="sample-hero">
+    <div class="sample-gallery">
+      {% for image in page.gallery_images %}
+      <img src="{{ image.src | relative_url }}" alt="{{ image.alt | default: page.title }}">
+      {% endfor %}
+    </div>
+    {% if page.hero_caption %}
+    <figcaption>{{ page.hero_caption }}</figcaption>
+    {% endif %}
+  </figure>
+  {% elsif page.thumbnail %}
+  <figure class="sample-hero">
+    <img src="{{ page.thumbnail | relative_url }}" alt="{{ page.thumbnail_alt | default: page.title }}">
+    {% if page.hero_caption %}
+    <figcaption>{{ page.hero_caption }}</figcaption>
+    {% endif %}
+  </figure>
+  {% endif %}
+
+  <div class="sample-page__content">
+    {{ content }}
+  </div>
+
+  <nav class="sample-pagination" aria-label="Portfolio sample pagination">
+    <div class="sample-pagination__slot">
+      {% if prev_sample %}
+      <a class="sample-pagination__link" href="{{ prev_sample.url | relative_url }}">
+        <span class="sample-pagination__label">Previous</span>
+        <span>{{ prev_sample.nav_title | default: prev_sample.title }}</span>
+      </a>
+      {% endif %}
+    </div>
+
+    <a class="button button--ghost" href="{{ "/" | relative_url }}">Back to Overview</a>
+
+    <div class="sample-pagination__slot sample-pagination__slot--right">
+      {% if next_sample %}
+      <a class="sample-pagination__link" href="{{ next_sample.url | relative_url }}">
+        <span class="sample-pagination__label">Next</span>
+        <span>{{ next_sample.nav_title | default: next_sample.title }}</span>
+      </a>
+      {% endif %}
+    </div>
+  </nav>
+</article>
