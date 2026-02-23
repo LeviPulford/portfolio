@@ -27,14 +27,31 @@ As part of a collaborative project in the University of Washington technical wri
 
 ## Deliverables
 
-- [Recycling Aid for Norfolk, VA]({{ "/PDF%20Downloads/Norfolk%20VA%20Aid.pdf" | relative_url }})  
-  An infographic helping residents properly sort recyclables to reduce contamination and improve waste management efficiency.
+<div class="deliverable-list">
+  <section class="deliverable-item">
+    <h3>Recycling Aid for Norfolk, VA</h3>
+    <p>An infographic helping residents properly sort recyclables to reduce contamination and improve waste management efficiency.</p>
+    <div class="deliverable-item__actions">
+      <a class="button" href="{{ "/PDF%20Downloads/Norfolk%20VA%20Aid.pdf" | relative_url }}" download aria-label="Download Recycling Aid for Norfolk, VA PDF">Download PDF</a>
+    </div>
+  </section>
 
-- [Solar Panel Installation Proposal for Redlands, CA]({{ "/PDF%20Downloads/Redlands%20CA%20Proposal.pdf" | relative_url }})  
-  A formal proposal advocating for municipal solar energy adoption.
+  <section class="deliverable-item">
+    <h3>Solar Panel Installation Proposal for Redlands, CA</h3>
+    <p>A formal proposal advocating for municipal solar energy adoption.</p>
+    <div class="deliverable-item__actions">
+      <a class="button" href="{{ "/PDF%20Downloads/Redlands%20CA%20Proposal.pdf" | relative_url }}" download aria-label="Download Solar Panel Installation Proposal for Redlands, CA PDF">Download PDF</a>
+    </div>
+  </section>
 
-- [Indoor Air Quality Fact Sheets for Morrisville, NC]({{ "/PDF%20Downloads/Morrisville%20NC%20Fact%20Sheets.pdf" | relative_url }})  
-  A set of fact sheets detailing pollutant sources, air quality monitoring metrics, and mitigation techniques.
+  <section class="deliverable-item">
+    <h3>Indoor Air Quality Fact Sheets for Morrisville, NC</h3>
+    <p>A set of fact sheets detailing pollutant sources, air quality monitoring metrics, and mitigation techniques.</p>
+    <div class="deliverable-item__actions">
+      <a class="button" href="{{ "/PDF%20Downloads/Morrisville%20NC%20Fact%20Sheets.pdf" | relative_url }}" download aria-label="Download Indoor Air Quality Fact Sheets for Morrisville, NC PDF">Download PDF</a>
+    </div>
+  </section>
+</div>
 
 ## Highlights
 
