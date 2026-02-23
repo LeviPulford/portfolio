@@ -63,6 +63,13 @@
                     {% if page.sidebar_image_caption %}
                     <figcaption>{{ page.sidebar_image_caption }}</figcaption>
                     {% endif %}
+                    {% if page.sidebar_download_url %}
+                    <div class="sidebar-feature__actions">
+                        <a class="button" href="{{ page.sidebar_download_url | relative_url }}" download>
+                            {{ page.sidebar_download_label | default: "Download PDF" }}
+                        </a>
+                    </div>
+                    {% endif %}
                 </figure>
                 {% endif %}
             </div>
