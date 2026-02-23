@@ -12,6 +12,8 @@ embed_title: "Interactive UI breakdowns for Note-Taking App Usability Report"
 hero_caption: "Interactive UI breakdowns inspired by UX teardown methods."
 roles: "UX Researcher · Content Strategist · Chief Calm Technology Evangelist · Multimedia Specialist"
 tools: "Figma, Canva, Google Drive, Google Forms, Apple Screen Recording"
+external_url: "https://aokoye.github.io/ptw330-usabilityreport/"
+external_label: "Open usability report"
 download_url: "/PDF%20Downloads/Team%20ESC%20Supplemental%20Materials.pdf"
 download_label: "Download supplemental materials"
 card_label: "UX Report"
@@ -36,4 +38,3 @@ As our team's chief calm technology advocate, drawing on Amber Case, I focused o
 - Developed an attention-based UI framework to diagnose usability pain points.
 - Applied user- and stakeholder-aligned design principles to support long-term value creation.
 - Combined calm technology theory with practical UX research methods to produce actionable product insight.
-
