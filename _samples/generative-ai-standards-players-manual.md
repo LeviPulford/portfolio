@@ -1,7 +1,7 @@
 ---
 title: "Generative AI Standards: A Player's Manual"
 card_title: "ConOps for Generative AI Development"
-nav_title: "Generative AI CONOPS"
+nav_title: "Generative AI ConOps"
 slug: generative-ai-standards-players-manual
 order: 4
 summary: >
