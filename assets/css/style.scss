@@ -330,6 +330,9 @@ iframe {
 
 .portfolio-card__body {
   padding: 0.95rem 1rem 1rem;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
 }
 
 .portfolio-card__eyebrow {
@@ -372,7 +375,8 @@ iframe {
   display: flex;
   flex-wrap: wrap;
   gap: 0.45rem;
-  margin-top: 0.85rem;
+  margin-top: auto;
+  padding-top: 0.85rem;
 }
 
 .portfolio-card__actions .button {
