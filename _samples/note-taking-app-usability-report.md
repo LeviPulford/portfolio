@@ -7,7 +7,7 @@ order: 2
 summary: >
   A team-based comparative usability study of Notion and Obsidian, with attention analysis, UI
   breakdowns, and stakeholder-aware recommendations grounded in UX research.
-thumbnail: "/thumbnails/usability-report-attention-graph.png"
+thumbnail: "/thumbnails/attention-graph.jpg"
 thumbnail_alt: "Attention graph diagram for a note-taking app usability report"
 hero_type: embed
 embed_url: "https://embed.figma.com/deck/Lnusk1eynpjrWycjsJvEIX/UI-Breakdowns?node-id=2001-47&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&embed-host=share"
