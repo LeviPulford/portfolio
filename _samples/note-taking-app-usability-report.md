@@ -1,5 +1,5 @@
 ---
-title: "Note-Taking App Usability Report: Notion & Obsidian"
+title: "Note-Taking App Usability Report"
 nav_title: "Note-Taking App Usability Report"
 slug: note-taking-app-usability-report
 order: 2
