@@ -56,6 +56,15 @@
                     </div>
                 </nav>
                 {% endif %}
+
+                {% if page.sidebar_image %}
+                <figure class="sidebar-feature">
+                    <img src="{{ page.sidebar_image | relative_url }}" alt="{{ page.sidebar_image_alt | default: page.title }}">
+                    {% if page.sidebar_image_caption %}
+                    <figcaption>{{ page.sidebar_image_caption }}</figcaption>
+                    {% endif %}
+                </figure>
+                {% endif %}
             </div>
         </aside>
 
