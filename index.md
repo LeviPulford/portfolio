@@ -3,13 +3,6 @@ layout: default
 title: "Portfolio"
 section: portfolio
 ---
-# Portfolio
-
-<div class="portfolio-intro">
-  <p>Below you will find samples of my work. All views expressed are my own.</p>
-  <p>Each sample now opens on its own page, with a shared contents menu in the left rail so visitors can move through the portfolio without losing context.</p>
-</div>
-
 {% assign samples = site.samples %}
 {% if samples == nil %}
 {% assign samples = "" | split: "" %}
@@ -28,7 +21,6 @@ section: portfolio
     </a>
 
     <div class="portfolio-card__body">
-      <p class="portfolio-card__eyebrow">Sample {{ sample.order }}</p>
       <h2 class="portfolio-card__title">
         <a href="{{ sample.url | relative_url }}">{{ sample.title }}</a>
       </h2>
