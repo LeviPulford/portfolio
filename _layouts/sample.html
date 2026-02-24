@@ -103,7 +103,7 @@ layout: default
     <div class="sample-pagination__slot">
       {% if prev_sample %}
       <a class="sample-pagination__link" href="{{ prev_sample.url | relative_url }}">
-        <span class="sample-pagination__label">Previous</span>
+        <span class="sample-pagination__label sample-pagination__label--prev">Previous</span>
         <span>{{ prev_sample.nav_title | default: prev_sample.title }}</span>
       </a>
       {% endif %}
@@ -114,7 +114,7 @@ layout: default
     <div class="sample-pagination__slot sample-pagination__slot--right">
       {% if next_sample %}
       <a class="sample-pagination__link" href="{{ next_sample.url | relative_url }}">
-        <span class="sample-pagination__label">Next</span>
+        <span class="sample-pagination__label sample-pagination__label--next">Next</span>
         <span>{{ next_sample.nav_title | default: next_sample.title }}</span>
       </a>
       {% endif %}
