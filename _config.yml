@@ -3,6 +3,8 @@ sass:
   style: compressed
 title: Levi Pulford
 description: Portfolio
+url: "https://levipulford.github.io"
+baseurl: "/portfolio"
 collections:
   samples:
     output: true
