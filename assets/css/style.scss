@@ -71,13 +71,13 @@ iframe {
   border: 1px solid rgba(255, 255, 255, 0.65);
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow);
-  padding: 1.15rem;
+  padding: clamp(1rem, 2vw, 1.9rem);
   backdrop-filter: blur(8px);
 }
 
 .site-name {
   margin: 0;
-  font-size: clamp(1.6rem, 2.2vw, 2rem);
+  font-size: 2.15rem;
   line-height: 1.05;
   letter-spacing: -0.02em;
   font-weight: 700;
@@ -689,6 +689,10 @@ iframe {
   .site-sidebar__inner,
   .site-main {
     border-radius: 16px;
+  }
+
+  .site-name {
+    font-size: 1.9rem;
   }
 
   .site-main h1 {
