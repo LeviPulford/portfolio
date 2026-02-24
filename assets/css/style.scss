@@ -641,6 +641,19 @@ iframe {
   text-transform: uppercase;
   letter-spacing: 0.08em;
   font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.sample-pagination__label--prev::before {
+  content: "\2190";
+  line-height: 1;
+}
+
+.sample-pagination__label--next::after {
+  content: "\2192";
+  line-height: 1;
 }
 
 @media (max-width: 960px) {
