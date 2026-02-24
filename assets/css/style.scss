@@ -195,6 +195,12 @@ iframe {
   border-top: 1px solid var(--border);
 }
 
+/* Avoid a double divider when the sidebar feature sits directly below PARC. */
+.global-nav + .sidebar-feature {
+  border-top: 0;
+  padding-top: 0;
+}
+
 .sidebar-feature img {
   display: block;
   width: 100%;
